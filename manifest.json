@@ -4616,6 +4616,17 @@
                           },
                           {
                             "type": "show",
+                            "id": "m___Sigma___",
+                            "enabled": "enabled",
+                            "name": "m_{\\Sigma^*}",
+                            "merged": true,
+                            "keywords": [
+                              "m_{\\Sigma^*}"
+                            ],
+                            "eventId": "27"
+                          },
+                          {
+                            "type": "show",
                             "id": "atomicity",
                             "enabled": "enabled",
                             "name": "atomicity",
