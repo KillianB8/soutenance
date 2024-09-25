@@ -24,7 +24,9 @@
     "learning_functorial": "learning_functorial",
     "free_mon_in_top": "free_mon_in_top",
     "enriched_learning": "enriched_learning",
-    "non_enriched_learning2": "non_enriched_learning"
+    "non_enriched_learning2": "non_enriched_learning",
+    "topos_generalisation": "topos_generalisation",
+    "toplstar": "toplstar"
   },
   "tree": {
     "type": "child",
@@ -4603,6 +4605,17 @@
                           },
                           {
                             "type": "show",
+                            "id": "m___Sigma___",
+                            "enabled": "enabled",
+                            "name": "m_{\\Sigma^*}",
+                            "merged": true,
+                            "keywords": [
+                              "m_{\\Sigma^*}"
+                            ],
+                            "eventId": "26"
+                          },
+                          {
+                            "type": "show",
                             "id": "atomicity",
                             "enabled": "enabled",
                             "name": "atomicity",
@@ -4725,6 +4738,9 @@
                             "opacity": 1
                           },
                           "_Sigma__": {
+                            "opacity": 1
+                          },
+                          "m___Sigma___": {
                             "opacity": 1
                           }
                         }
@@ -5223,10 +5239,32 @@
                     "children": [
                       {
                         "type": "show",
+                        "id": "Arrow_532",
+                        "enabled": "enabled",
+                        "name": "Arrow 53",
+                        "merged": false,
+                        "keywords": [
+                          "Arrow 53"
+                        ],
+                        "eventId": "33"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathbf_Set_2",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Set}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathbf{Set}"
+                        ],
+                        "eventId": "34"
+                      },
+                      {
+                        "type": "show",
                         "id": "___cdot__",
                         "enabled": "enabled",
                         "name": "\\{\\cdot\\}",
-                        "merged": false,
+                        "merged": true,
                         "keywords": [
                           "\\{\\cdot\\}"
                         ],
@@ -5396,6 +5434,17 @@
                           "\\iota_{Q,T}"
                         ],
                         "eventId": "19"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Q_Sigma_phantom___cup_Q_T",
+                        "enabled": "enabled",
+                        "name": "(Q\\Sigma\\phantom{}\\cup Q)T",
+                        "merged": true,
+                        "keywords": [
+                          "(Q\\Sigma\\phantom{}\\cup Q)T"
+                        ],
+                        "eventId": "32"
                       },
                       {
                         "type": "show",
@@ -5616,6 +5665,15 @@
                       },
                       "The_hypothesis_automaton_is_obtained_by_merging_the_isomorphic_state_spaces_": {
                         "opacity": 1
+                      },
+                      "_Q_Sigma_phantom___cup_Q_T": {
+                        "opacity": 1
+                      },
+                      "Arrow_532": {
+                        "opacity": 1
+                      },
+                      "_mathbf_Set_2": {
+                        "opacity": 1
                       }
                     }
                   },
@@ -5691,10 +5749,431 @@
                           "what is a counterexample? what is its prefix-closure? (what even is a word???)"
                         ],
                         "eventId": "5"
+                      },
+                      {
+                        "type": "child",
+                        "name": "topos-generalisation",
+                        "id": "topos_generalisation",
+                        "enabled": "enabled",
+                        "merged": false,
+                        "children": [
+                          {
+                            "type": "show",
+                            "id": "Concatenation_of_languages_",
+                            "enabled": "enabled",
+                            "name": "Concatenation of languages:",
+                            "merged": false,
+                            "keywords": [
+                              "Concatenation of languages:"
+                            ],
+                            "eventId": "4"
+                          },
+                          {
+                            "type": "show",
+                            "id": "__contains_all_words_of_the_form__",
+                            "enabled": "enabled",
+                            "name": "“ contains all words of the form “",
+                            "merged": true,
+                            "keywords": [
+                              "“ contains all words of the form “"
+                            ],
+                            "eventId": "6"
+                          },
+                          {
+                            "type": "show",
+                            "id": "QT",
+                            "enabled": "enabled",
+                            "name": "QT",
+                            "merged": true,
+                            "keywords": [
+                              "QT"
+                            ],
+                            "eventId": "7"
+                          },
+                          {
+                            "type": "show",
+                            "id": "qt___q_t__in_phantom__Q_times_phantom___T",
+                            "enabled": "enabled",
+                            "name": "qt, (q,t)\\in\\phantom{}Q\\times\\phantom{} T",
+                            "merged": true,
+                            "keywords": [
+                              "qt, (q,t)\\in\\phantom{}Q\\times\\phantom{} T"
+                            ],
+                            "eventId": "8"
+                          },
+                          {
+                            "type": "show",
+                            "id": "__is_the_direct_image_of_the_monoidal_product_restricted_to__",
+                            "enabled": "enabled",
+                            "name": "“ is the direct image of the monoidal product restricted to “",
+                            "merged": false,
+                            "keywords": [
+                              "“ is the direct image of the monoidal product restricted to “"
+                            ],
+                            "eventId": "9"
+                          },
+                          {
+                            "type": "show",
+                            "id": "QT2",
+                            "enabled": "enabled",
+                            "name": "QT",
+                            "merged": true,
+                            "keywords": [
+                              "QT"
+                            ],
+                            "eventId": "10"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_Sigma___times_Sigma___to_Sigma__",
+                            "enabled": "enabled",
+                            "name": "\\Sigma^*\\times\\Sigma^*\\to\\Sigma^*",
+                            "merged": true,
+                            "keywords": [
+                              "\\Sigma^*\\times\\Sigma^*\\to\\Sigma^*"
+                            ],
+                            "eventId": "11"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q_times_phantom__T",
+                            "enabled": "enabled",
+                            "name": "Q\\times\\phantom{}T",
+                            "merged": true,
+                            "keywords": [
+                              "Q\\times\\phantom{}T"
+                            ],
+                            "eventId": "12"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_any_prefix_of_a_word_in_is_also_in__",
+                            "enabled": "enabled",
+                            "name": "“ any prefix of a word in is also in “",
+                            "merged": false,
+                            "keywords": [
+                              "“ any prefix of a word in is also in “"
+                            ],
+                            "eventId": "13"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Prefix_closed_language_",
+                            "enabled": "enabled",
+                            "name": "Prefix-closed language:",
+                            "merged": true,
+                            "keywords": [
+                              "Prefix-closed language:"
+                            ],
+                            "eventId": "14"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q",
+                            "enabled": "enabled",
+                            "name": "Q",
+                            "merged": true,
+                            "keywords": [
+                              "Q"
+                            ],
+                            "eventId": "15"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q2",
+                            "enabled": "enabled",
+                            "name": "Q",
+                            "merged": true,
+                            "keywords": [
+                              "Q"
+                            ],
+                            "eventId": "16"
+                          },
+                          {
+                            "type": "show",
+                            "id": "____or_there_is_some_prefix_closed_and___such_that__",
+                            "enabled": "enabled",
+                            "name": "“ . or there is some prefix-closed and . such that “",
+                            "merged": false,
+                            "keywords": [
+                              "“ . or there is some prefix-closed and . such that “"
+                            ],
+                            "eventId": "17"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q____varepsilon__",
+                            "enabled": "enabled",
+                            "name": "Q=\\{\\varepsilon\\}",
+                            "merged": true,
+                            "keywords": [
+                              "Q=\\{\\varepsilon\\}"
+                            ],
+                            "eventId": "18"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q__prime_subseteq_phantom___Q",
+                            "enabled": "enabled",
+                            "name": "Q^\\prime\\subseteq\\phantom{} Q",
+                            "merged": true,
+                            "keywords": [
+                              "Q^\\prime\\subseteq\\phantom{} Q"
+                            ],
+                            "eventId": "19"
+                          },
+                          {
+                            "type": "show",
+                            "id": "R_subseteq_phantom___Q__prime_times_Sigma",
+                            "enabled": "enabled",
+                            "name": "R\\subseteq\\phantom{} Q^\\prime\\times\\Sigma",
+                            "merged": true,
+                            "keywords": [
+                              "R\\subseteq\\phantom{} Q^\\prime\\times\\Sigma"
+                            ],
+                            "eventId": "20"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Q____varepsilon___R",
+                            "enabled": "enabled",
+                            "name": "Q=\\{\\varepsilon\\}+R",
+                            "merged": true,
+                            "keywords": [
+                              "Q=\\{\\varepsilon\\}+R"
+                            ],
+                            "eventId": "21"
+                          }
+                        ],
+                        "keywords": [
+                          "“Wordless” characterisations of concepts",
+                          "topos-generalisation"
+                        ],
+                        "eventId": "11",
+                        "originalParams": {
+                          "Concatenation_of_languages_": {
+                            "opacity": 1
+                          },
+                          "__contains_all_words_of_the_form__": {
+                            "opacity": 1
+                          },
+                          "QT": {
+                            "opacity": 1
+                          },
+                          "qt___q_t__in_phantom__Q_times_phantom___T": {
+                            "opacity": 1
+                          },
+                          "__is_the_direct_image_of_the_monoidal_product_restricted_to__": {
+                            "opacity": 1
+                          },
+                          "QT2": {
+                            "opacity": 1
+                          },
+                          "_Sigma___times_Sigma___to_Sigma__": {
+                            "opacity": 1
+                          },
+                          "Q_times_phantom__T": {
+                            "opacity": 1
+                          },
+                          "_any_prefix_of_a_word_in_is_also_in__": {
+                            "opacity": 1
+                          },
+                          "Prefix_closed_language_": {
+                            "opacity": 1
+                          },
+                          "Q": {
+                            "opacity": 1
+                          },
+                          "Q2": {
+                            "opacity": 1
+                          },
+                          "____or_there_is_some_prefix_closed_and___such_that__": {
+                            "opacity": 1
+                          },
+                          "Q____varepsilon__": {
+                            "opacity": 1
+                          },
+                          "Q__prime_subseteq_phantom___Q": {
+                            "opacity": 1
+                          },
+                          "R_subseteq_phantom___Q__prime_times_Sigma": {
+                            "opacity": 1
+                          },
+                          "Q____varepsilon___R": {
+                            "opacity": 1
+                          }
+                        }
+                      },
+                      {
+                        "type": "child",
+                        "name": "toplstar",
+                        "id": "toplstar",
+                        "enabled": "enabled",
+                        "merged": false,
+                        "children": [
+                          {
+                            "type": "show",
+                            "id": "What_s_new_about_this_",
+                            "enabled": "enabled",
+                            "name": "What’s new about this?",
+                            "merged": false,
+                            "keywords": [
+                              "What’s new about this?"
+                            ],
+                            "eventId": "10"
+                          },
+                          {
+                            "type": "show",
+                            "id": "a_generalisation_of_the_Stabile_Petrisan_Colcombet_framework_for_functorial_learning",
+                            "enabled": "enabled",
+                            "name": "a generalisation of the Stabile-Petrisan-Colcombet framework for functorial learning",
+                            "merged": false,
+                            "keywords": [
+                              "a generalisation of the Stabile-Petrisan-Colcombet framework for functorial learning"
+                            ],
+                            "eventId": "8"
+                          },
+                          {
+                            "type": "show",
+                            "id": "some_new_applications__eg__nominal_sets__",
+                            "enabled": "enabled",
+                            "name": "some new applications (eg. nominal sets):",
+                            "merged": false,
+                            "keywords": [
+                              "some new applications (eg. nominal sets):"
+                            ],
+                            "eventId": "7"
+                          },
+                          {
+                            "type": "show",
+                            "id": "X_times_phantom___hspace__85cm__to_phantom___X",
+                            "enabled": "enabled",
+                            "name": "X\\times\\phantom{}\\hspace{.85cm}\\to\\phantom{} X",
+                            "merged": true,
+                            "keywords": [
+                              "X\\times\\phantom{}\\hspace{.85cm}\\to\\phantom{} X"
+                            ],
+                            "eventId": "12"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_mathfrak_S___mathbb_D__",
+                            "enabled": "enabled",
+                            "name": "\\mathfrak{S}(\\mathbb{D})",
+                            "merged": true,
+                            "keywords": [
+                              "\\mathfrak{S}(\\mathbb{D})"
+                            ],
+                            "eventId": "13"
+                          },
+                          {
+                            "type": "hide",
+                            "id": "_mathfrak_S___mathbb_D__",
+                            "enabled": "enabled",
+                            "name": "\\mathfrak{S}(\\mathbb{D})",
+                            "merged": false,
+                            "keywords": [
+                              "\\mathfrak{S}(\\mathbb{D})"
+                            ],
+                            "eventId": "1"
+                          },
+                          {
+                            "type": "show",
+                            "id": "G",
+                            "enabled": "enabled",
+                            "name": "G",
+                            "merged": true,
+                            "keywords": [
+                              "G"
+                            ],
+                            "eventId": "2"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_G_subseteq_phantom___mathfrak_S___mathbb_D__",
+                            "enabled": "enabled",
+                            "name": "G\\subseteq\\phantom{}\\mathfrak{S}(\\mathbb{D})",
+                            "merged": true,
+                            "keywords": [
+                              "G\\subseteq\\phantom{}\\mathfrak{S}(\\mathbb{D})"
+                            ],
+                            "eventId": "4"
+                          },
+                          {
+                            "type": "show",
+                            "id": "a_first_step_towards_generalising_Angluin_s_algorithm_to_arbitrary_enriched_categories",
+                            "enabled": "enabled",
+                            "name": "a first step towards generalising Angluin’s algorithm to arbitrary enriched categories",
+                            "merged": false,
+                            "keywords": [
+                              "a first step towards generalising Angluin’s algorithm to arbitrary enriched categories"
+                            ],
+                            "eventId": "5"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_probably_difficult____",
+                            "enabled": "enabled",
+                            "name": "(probably difficult...)",
+                            "merged": true,
+                            "keywords": [
+                              "(probably difficult...)"
+                            ],
+                            "eventId": "6"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text",
+                            "enabled": "enabled",
+                            "name": "Thank you!",
+                            "merged": false,
+                            "keywords": [
+                              "Thank you!"
+                            ],
+                            "eventId": "11"
+                          }
+                        ],
+                        "keywords": [
+                          "Finally.... learning a in topos-enriched setting!",
+                          "Main result of this internship: Angluin’s algorithm for topos-enriched functorial automata",
+                          "toplstar"
+                        ],
+                        "eventId": "12",
+                        "originalParams": {
+                          "_mathfrak_S___mathbb_D__": {
+                            "opacity": 1
+                          },
+                          "G": {
+                            "opacity": 1
+                          },
+                          "_G_subseteq_phantom___mathfrak_S___mathbb_D__": {
+                            "opacity": 1
+                          },
+                          "a_first_step_towards_generalising_Angluin_s_algorithm_to_arbitrary_enriched_categories": {
+                            "opacity": 1
+                          },
+                          "_probably_difficult____": {
+                            "opacity": 1
+                          },
+                          "some_new_applications__eg__nominal_sets__": {
+                            "opacity": 1
+                          },
+                          "a_generalisation_of_the_Stabile_Petrisan_Colcombet_framework_for_functorial_learning": {
+                            "opacity": 1
+                          },
+                          "What_s_new_about_this_": {
+                            "opacity": 1
+                          },
+                          "Text": {
+                            "opacity": 1
+                          },
+                          "X_times_phantom___hspace__85cm__to_phantom___X": {
+                            "opacity": 1
+                          }
+                        }
                       }
                     ],
                     "keywords": [
-                      "donner exemple (concat+prefix-closed), dire que algo s’adapte+dire que nouveauté dans nominal",
                       "Many problems arise:",
                       "Topos-enriched learning (new)",
                       "enriched learning"
