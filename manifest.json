@@ -5220,17 +5220,404 @@
                     "id": "non_enriched_learning2",
                     "enabled": "enabled",
                     "merged": false,
-                    "children": [],
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "___cdot__",
+                        "enabled": "enabled",
+                        "name": "\\{\\cdot\\}",
+                        "merged": false,
+                        "keywords": [
+                          "\\{\\cdot\\}"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_23",
+                        "enabled": "enabled",
+                        "name": "Arrow 23",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 23"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "S_1",
+                        "enabled": "enabled",
+                        "name": "S_1",
+                        "merged": true,
+                        "keywords": [
+                          "S_1"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_24",
+                        "enabled": "enabled",
+                        "name": "Arrow 24",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 24"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "show",
+                        "id": "S_2",
+                        "enabled": "enabled",
+                        "name": "S_2",
+                        "merged": true,
+                        "keywords": [
+                          "S_2"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_25",
+                        "enabled": "enabled",
+                        "name": "Arrow 25",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 25"
+                        ],
+                        "eventId": "6"
+                      },
+                      {
+                        "type": "show",
+                        "id": "___bot__top__",
+                        "enabled": "enabled",
+                        "name": "\\{\\bot,\\top\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\{\\bot,\\top\\}"
+                        ],
+                        "eventId": "7"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_B_",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{B}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{B}"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_53",
+                        "enabled": "enabled",
+                        "name": "Arrow 55",
+                        "merged": false,
+                        "keywords": [
+                          "Arrow 55"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_in_",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{in}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathsf{in}"
+                        ],
+                        "eventId": "12"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Ellipse_5",
+                        "enabled": "enabled",
+                        "name": "Ellipse 5",
+                        "merged": true,
+                        "keywords": [
+                          "Ellipse 5"
+                        ],
+                        "eventId": "13"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_53",
+                        "enabled": "enabled",
+                        "name": "Arrow 55",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 55"
+                        ],
+                        "eventId": "14"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_20",
+                        "enabled": "enabled",
+                        "name": "Arrow 54",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 54"
+                        ],
+                        "eventId": "15"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_out_",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{out}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathsf{out}"
+                        ],
+                        "eventId": "16"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_O___Q_T_",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{O}_{Q,T}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{O}_{Q,T}"
+                        ],
+                        "eventId": "17"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_iota__Q_T_",
+                        "enabled": "enabled",
+                        "name": "\\iota_{Q,T}",
+                        "merged": true,
+                        "keywords": [
+                          "\\iota_{Q,T}"
+                        ],
+                        "eventId": "19"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Idea__apply_the_same_minimisation_process_as_for_automata_",
+                        "enabled": "enabled",
+                        "name": "Idea: apply the same minimisation process as for automata!",
+                        "merged": false,
+                        "keywords": [
+                          "Idea: apply the same minimisation process as for automata!"
+                        ],
+                        "eventId": "18"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Rectangle_7",
+                        "enabled": "enabled",
+                        "name": "Rectangle 7",
+                        "merged": false,
+                        "keywords": [
+                          "Rectangle 7"
+                        ],
+                        "eventId": "20"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Stabile__Petrisan__Colcombet_",
+                        "enabled": "enabled",
+                        "name": "Stabile, Petrisan, Colcombet (2023):",
+                        "merged": true,
+                        "keywords": [
+                          "Stabile, Petrisan, Colcombet (2023):"
+                        ],
+                        "eventId": "21"
+                      },
+                      {
+                        "type": "show",
+                        "id": "A_table_is_closed_and_consistent_iff",
+                        "enabled": "enabled",
+                        "name": "A table is closed and consistent iff",
+                        "merged": true,
+                        "keywords": [
+                          "A table is closed and consistent iff"
+                        ],
+                        "eventId": "22"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Q_T_",
+                        "enabled": "enabled",
+                        "name": "(Q,T)",
+                        "merged": true,
+                        "keywords": [
+                          "(Q,T)"
+                        ],
+                        "eventId": "23"
+                      },
+                      {
+                        "type": "show",
+                        "id": "F__textsf_st__1__cong_phantom___F__textsf_st__2_",
+                        "enabled": "enabled",
+                        "name": "\\textsf{Min}_{Q,T}(\\textsf{st}_1)\\cong\\phantom{} \\textsf{Min}_{Q,T}(\\textsf{st}_2)",
+                        "merged": true,
+                        "keywords": [
+                          "\\textsf{Min}_{Q,T}(\\textsf{st}_1)\\cong\\phantom{} \\textsf{Min}_{Q,T}(\\textsf{st}_2)"
+                        ],
+                        "eventId": "24"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text",
+                        "enabled": "enabled",
+                        "name": "Learning = minimisation with a different input category!",
+                        "merged": false,
+                        "keywords": [
+                          "Learning = minimisation with a different input category!"
+                        ],
+                        "eventId": "26"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_56",
+                        "enabled": "enabled",
+                        "name": "Arrow 56",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 56"
+                        ],
+                        "eventId": "27"
+                      },
+                      {
+                        "type": "show",
+                        "id": "The_hypothesis_automaton_is_obtained_by_merging_the_isomorphic_state_spaces_",
+                        "enabled": "enabled",
+                        "name": "The hypothesis automaton is obtained by merging the isomorphic state spaces!",
+                        "merged": false,
+                        "keywords": [
+                          "The hypothesis automaton is obtained by merging the isomorphic state spaces!"
+                        ],
+                        "eventId": "31"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Replace_by_your_favorite_category__",
+                        "enabled": "enabled",
+                        "name": "Replace by your favorite category!*",
+                        "merged": false,
+                        "keywords": [
+                          "Replace by your favorite category!*"
+                        ],
+                        "eventId": "28"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathbf_Set_",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Set}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathbf{Set}"
+                        ],
+                        "eventId": "29"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_conditions_apply",
+                        "enabled": "enabled",
+                        "name": "*conditions apply",
+                        "merged": true,
+                        "keywords": [
+                          "*conditions apply"
+                        ],
+                        "eventId": "30"
+                      }
+                    ],
                     "keywords": [
-                      "Stabile, Petrisan, Colcombet (2023):",
                       "Non-enriched learning (state of the art):",
-                      "A table is closed and consistent iff",
-                      "Idea: apply the same minimisation process as for automata!",
-                      "add idee algo+automate hypothese",
                       "non-enriched learning"
                     ],
                     "eventId": "26",
-                    "originalParams": {}
+                    "originalParams": {
+                      "___cdot__": {
+                        "opacity": 1
+                      },
+                      "Arrow_23": {
+                        "opacity": 1
+                      },
+                      "S_1": {
+                        "opacity": 1
+                      },
+                      "Arrow_24": {
+                        "opacity": 1
+                      },
+                      "S_2": {
+                        "opacity": 1
+                      },
+                      "Arrow_25": {
+                        "opacity": 1
+                      },
+                      "___bot__top__": {
+                        "opacity": 1
+                      },
+                      "_mathbf_Set_": {
+                        "opacity": 1
+                      },
+                      "Arrow_53": {
+                        "opacity": 1
+                      },
+                      "_mathcal_B_": {
+                        "opacity": 1
+                      },
+                      "_mathsf_in_": {
+                        "opacity": 1
+                      },
+                      "Ellipse_5": {
+                        "opacity": 1
+                      },
+                      "Arrow_20": {
+                        "opacity": 1
+                      },
+                      "_mathsf_out_": {
+                        "opacity": 1
+                      },
+                      "_mathcal_O___Q_T_": {
+                        "opacity": 1
+                      },
+                      "Idea__apply_the_same_minimisation_process_as_for_automata_": {
+                        "opacity": 1
+                      },
+                      "_iota__Q_T_": {
+                        "opacity": 1
+                      },
+                      "Rectangle_7": {
+                        "opacity": 1
+                      },
+                      "Stabile__Petrisan__Colcombet_": {
+                        "opacity": 1
+                      },
+                      "A_table_is_closed_and_consistent_iff": {
+                        "opacity": 1
+                      },
+                      "_Q_T_": {
+                        "opacity": 1
+                      },
+                      "F__textsf_st__1__cong_phantom___F__textsf_st__2_": {
+                        "opacity": 1
+                      },
+                      "Text": {
+                        "opacity": 1
+                      },
+                      "Arrow_56": {
+                        "opacity": 1
+                      },
+                      "Replace_by_your_favorite_category__": {
+                        "opacity": 1
+                      },
+                      "_conditions_apply": {
+                        "opacity": 1
+                      },
+                      "The_hypothesis_automaton_is_obtained_by_merging_the_isomorphic_state_spaces_": {
+                        "opacity": 1
+                      }
+                    }
                   },
                   {
                     "type": "child",
@@ -5238,19 +5625,101 @@
                     "id": "enriched_learning",
                     "enabled": "enabled",
                     "merged": true,
-                    "children": [],
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "what_is_the_concatenation_of_two_languages_",
+                        "enabled": "enabled",
+                        "name": "what is the concatenation of two languages ?",
+                        "merged": false,
+                        "keywords": [
+                          "what is the concatenation of two languages ?"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text",
+                        "enabled": "enabled",
+                        "name": "QT",
+                        "merged": true,
+                        "keywords": [
+                          "QT"
+                        ],
+                        "eventId": "6"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Q_T2",
+                        "enabled": "enabled",
+                        "name": "Q,T",
+                        "merged": true,
+                        "keywords": [
+                          "Q,T"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "what_is_a_prefix_closed_language_",
+                        "enabled": "enabled",
+                        "name": "what is a prefix-closed language?",
+                        "merged": false,
+                        "keywords": [
+                          "what is a prefix-closed language?"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "how_is_the_hypothesis_automaton_defined_",
+                        "enabled": "enabled",
+                        "name": "how is the hypothesis automaton defined?",
+                        "merged": false,
+                        "keywords": [
+                          "how is the hypothesis automaton defined?"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "what_is_a_counterexample__what_is_its_prefix_closure___what_even_is_a_word____",
+                        "enabled": "enabled",
+                        "name": "what is a counterexample? what is its prefix-closure? (what even is a word???)",
+                        "merged": false,
+                        "keywords": [
+                          "what is a counterexample? what is its prefix-closure? (what even is a word???)"
+                        ],
+                        "eventId": "5"
+                      }
+                    ],
                     "keywords": [
                       "donner exemple (concat+prefix-closed), dire que algo s’adapte+dire que nouveauté dans nominal",
-                      "what is a prefix-closed language?",
                       "Many problems arise:",
-                      "what is the concatenation of two languages?",
                       "Topos-enriched learning (new)",
-                      "how is the hypothesis automaton defined?",
-                      "what is a counterexample? what is its prefix-closure? (what even is a word???)",
                       "enriched learning"
                     ],
                     "eventId": "20",
-                    "originalParams": {}
+                    "originalParams": {
+                      "what_is_the_concatenation_of_two_languages_": {
+                        "opacity": 1
+                      },
+                      "what_is_a_prefix_closed_language_": {
+                        "opacity": 1
+                      },
+                      "how_is_the_hypothesis_automaton_defined_": {
+                        "opacity": 1
+                      },
+                      "what_is_a_counterexample__what_is_its_prefix_closure___what_even_is_a_word____": {
+                        "opacity": 1
+                      },
+                      "Text": {
+                        "opacity": 1
+                      },
+                      "Q_T2": {
+                        "opacity": 1
+                      }
+                    }
                   }
                 ],
                 "keywords": [
