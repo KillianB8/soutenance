@@ -3924,17 +3924,6 @@
               },
               {
                 "type": "hide",
-                "id": "_rhd",
-                "enabled": "enabled",
-                "name": "\\rhd",
-                "merged": false,
-                "keywords": [
-                  "\\rhd"
-                ],
-                "eventId": "8"
-              },
-              {
-                "type": "hide",
                 "id": "a_in_Sigma",
                 "enabled": "enabled",
                 "name": "a\\in\\Sigma",
@@ -3990,17 +3979,6 @@
               },
               {
                 "type": "show",
-                "id": "__",
-                "enabled": "enabled",
-                "name": "\\varepsilon",
-                "merged": true,
-                "keywords": [
-                  "\\varepsilon"
-                ],
-                "eventId": "14"
-              },
-              {
-                "type": "show",
                 "id": "__2",
                 "enabled": "enabled",
                 "name": "\\varepsilon",
@@ -4009,6 +3987,28 @@
                   "\\varepsilon"
                 ],
                 "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "_varepsilon2",
+                "enabled": "enabled",
+                "name": "\\varepsilon",
+                "merged": true,
+                "keywords": [
+                  "\\varepsilon"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "hide",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "\\rhd",
+                "merged": true,
+                "keywords": [
+                  "\\rhd"
+                ],
+                "eventId": "28"
               },
               {
                 "type": "show",
@@ -4300,6 +4300,50 @@
                         "eventId": "23"
                       },
                       {
+                        "type": "hide",
+                        "id": "_Omega",
+                        "enabled": "enabled",
+                        "name": "\\Omega",
+                        "merged": false,
+                        "keywords": [
+                          "\\Omega"
+                        ],
+                        "eventId": "39"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text",
+                        "enabled": "enabled",
+                        "name": "\\{\\bot,\\top\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\{\\bot,\\top\\}"
+                        ],
+                        "eventId": "40"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_subseteq",
+                        "enabled": "enabled",
+                        "name": "\\subseteq",
+                        "merged": true,
+                        "keywords": [
+                          "\\subseteq"
+                        ],
+                        "eventId": "41"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_top",
+                        "enabled": "enabled",
+                        "name": "\\top",
+                        "merged": true,
+                        "keywords": [
+                          "\\top"
+                        ],
+                        "eventId": "42"
+                      },
+                      {
                         "type": "show",
                         "id": "Line_11",
                         "enabled": "enabled",
@@ -4315,7 +4359,7 @@
                         "id": "Example_",
                         "enabled": "enabled",
                         "name": "Example:",
-                        "merged": false,
+                        "merged": true,
                         "keywords": [
                           "Example:"
                         ],
@@ -4827,6 +4871,15 @@
                         "opacity": 1
                       },
                       "Arrow_51": {
+                        "opacity": 1
+                      },
+                      "Text": {
+                        "opacity": 1
+                      },
+                      "_subseteq": {
+                        "opacity": 1
+                      },
+                      "_top": {
                         "opacity": 1
                       }
                     }
@@ -6287,9 +6340,6 @@
               "What_if_the_alphabet_is_not_a_plain_set_": {
                 "opacity": 1
               },
-              "_rhd": {
-                "opacity": 1
-              },
               "a_in_Sigma": {
                 "opacity": 1
               },
@@ -6300,9 +6350,6 @@
                 "opacity": 1
               },
               "_Sigma": {
-                "opacity": 1
-              },
-              "__": {
                 "opacity": 1
               },
               "__2": {
@@ -6324,6 +6371,15 @@
                 "opacity": 1
               },
               "_varepsilon": {
+                "opacity": 1
+              },
+              "page1": {
+                "opacity": 1
+              },
+              "_varepsilon2": {
+                "opacity": 1
+              },
+              "Text": {
                 "opacity": 1
               }
             }
