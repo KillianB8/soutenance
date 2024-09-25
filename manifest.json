@@ -3780,17 +3780,6 @@
                               "some letter occurs twice"
                             ],
                             "eventId": "2"
-                          },
-                          {
-                            "type": "show",
-                            "id": "_practical_application__XML_parsign_for_example_",
-                            "enabled": "enabled",
-                            "name": "practical application: XML parsing for example",
-                            "merged": false,
-                            "keywords": [
-                              "practical application: XML parsing for example"
-                            ],
-                            "eventId": "4"
                           }
                         ],
                         "keywords": [
@@ -5512,6 +5501,28 @@
                       },
                       {
                         "type": "show",
+                        "id": "Text2",
+                        "enabled": "enabled",
+                        "name": "table!",
+                        "merged": false,
+                        "keywords": [
+                          "table!"
+                        ],
+                        "eventId": "35"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_30",
+                        "enabled": "enabled",
+                        "name": "Arrow 30",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 30"
+                        ],
+                        "eventId": "36"
+                      },
+                      {
+                        "type": "show",
                         "id": "Idea__apply_the_same_minimisation_process_as_for_automata_",
                         "enabled": "enabled",
                         "name": "Idea: apply the same minimisation process as for automata!",
@@ -5737,6 +5748,12 @@
                         "opacity": 1
                       },
                       "_mathbf_Set_2": {
+                        "opacity": 1
+                      },
+                      "Text2": {
+                        "opacity": 1
+                      },
+                      "Arrow_30": {
                         "opacity": 1
                       }
                     }
@@ -6266,7 +6283,7 @@
                   }
                 ],
                 "keywords": [
-                  "Learning functorial automata in topoi",
+                  "Learning functorial automata",
                   "learning functorial"
                 ],
                 "eventId": "17",
