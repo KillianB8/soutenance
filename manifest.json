@@ -1,0 +1,5418 @@
+{
+  "version": 3.1,
+  "presentation": "soutenance",
+  "slideDict": {
+    "new_slide": "new_slide",
+    "Global": "Global",
+    "Automaton_example": "Automaton_example",
+    "Angluin": "Angluin",
+    "Angluin__example_": "Angluin__example_",
+    "Algo__angluin_": "Algo__angluin_",
+    "Myhil_Nerode": "Myhil_Nerode",
+    "Automata_CT": "Automata_CT",
+    "functorial_prez2": "functorial_prez",
+    "minimisation": "minimisation",
+    "kan_and_stuff": "kan_and_stuff",
+    "factorisation": "factorisation",
+    "learning_topoi": "learning_topoi",
+    "nominal": "nominal",
+    "nominal_def": "nominal_def",
+    "exemple_nominal": "exemple_nominal",
+    "toposes": "toposes",
+    "topos_def": "topos_def",
+    "functorial_in_topos": "functorial_in_topos",
+    "learning_functorial": "learning_functorial",
+    "free_mon_in_top": "free_mon_in_top",
+    "enriched_learning": "enriched_learning",
+    "non_enriched_learning2": "non_enriched_learning"
+  },
+  "tree": {
+    "type": "child",
+    "name": "new slide",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "child",
+        "name": "Global",
+        "id": "Global",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "Automaton example",
+            "id": "Automaton_example",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "w_baab",
+                "enabled": "enabled",
+                "name": "w=baab",
+                "merged": false,
+                "keywords": [
+                  "w=baab"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_114",
+                "enabled": "enabled",
+                "name": "Arrow 0",
+                "merged": true,
+                "keywords": [
+                  "Arrow 0"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_11",
+                "enabled": "enabled",
+                "name": "Arrow 1",
+                "merged": false,
+                "keywords": [
+                  "Arrow 1"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_112",
+                "enabled": "enabled",
+                "name": "Arrow 2",
+                "merged": false,
+                "keywords": [
+                  "Arrow 2"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_12",
+                "enabled": "enabled",
+                "name": "Arrow 3",
+                "merged": false,
+                "keywords": [
+                  "Arrow 3"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_4",
+                "enabled": "enabled",
+                "name": "Arrow 4",
+                "merged": false,
+                "keywords": [
+                  "Arrow 4"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_113",
+                "enabled": "enabled",
+                "name": "Arrow 11",
+                "merged": false,
+                "keywords": [
+                  "Arrow 11"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Text3",
+                "enabled": "enabled",
+                "name": "“OK!”",
+                "merged": true,
+                "keywords": [
+                  "“OK!”"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "This automaton recognises the language",
+                "merged": false,
+                "keywords": [
+                  "This automaton recognises the language"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "_mathcal_L____a_b____ab",
+                "enabled": "enabled",
+                "name": "\\mathcal{L}=\\{a,b\\}^*ab",
+                "merged": true,
+                "keywords": [
+                  "\\mathcal{L}=\\{a,b\\}^*ab"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "hide",
+                "id": "_mathcal_L____a_b____ab",
+                "enabled": "enabled",
+                "name": "\\mathcal{L}=\\{a,b\\}^*ab",
+                "merged": false,
+                "keywords": [
+                  "\\mathcal{L}=\\{a,b\\}^*ab"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "Text4",
+                "enabled": "enabled",
+                "name": "??????????",
+                "merged": true,
+                "keywords": [
+                  "??????????"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_2",
+                "enabled": "enabled",
+                "name": "Rectangle 2",
+                "merged": true,
+                "keywords": [
+                  "Rectangle 2"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "hide",
+                "id": "Rectangle_2",
+                "enabled": "enabled",
+                "name": "Rectangle 2",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 2"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Can_we_deduce_the_inner_structure_by_observing_the_system_s_behaviour_",
+                "enabled": "enabled",
+                "name": "Can we deduce the inner structure by observing the system’s behaviour?",
+                "merged": true,
+                "keywords": [
+                  "Can we deduce the inner structure by observing the system’s behaviour?"
+                ],
+                "eventId": "22"
+              }
+            ],
+            "keywords": [
+              "Automaton example"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Arrow_11": {
+                "opacity": 1
+              },
+              "Arrow_12": {
+                "opacity": 1
+              },
+              "Arrow_112": {
+                "opacity": 1
+              },
+              "Arrow_4": {
+                "opacity": 1
+              },
+              "Arrow_113": {
+                "opacity": 1
+              },
+              "Rectangle_2": {
+                "opacity": 1
+              },
+              "Text4": {
+                "opacity": 1
+              },
+              "Text3": {
+                "opacity": 1
+              },
+              "w_baab": {
+                "opacity": 1
+              },
+              "Arrow_114": {
+                "opacity": 1
+              },
+              "Can_we_deduce_the_inner_structure_by_observing_the_system_s_behaviour_": {
+                "opacity": 1
+              },
+              "_mathcal_L____a_b____ab": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Angluin",
+            "id": "Angluin",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Membership_queries___is_this_word_accepted___",
+                "enabled": "enabled",
+                "name": "Membership queries (“is this word accepted?”)",
+                "merged": false,
+                "keywords": [
+                  "Membership queries (“is this word accepted?”)"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Equivalence_queries___does_this_automaton_recognise_the_right_language___",
+                "enabled": "enabled",
+                "name": "Equivalence queries (“does this automaton recognise the right language?”)",
+                "merged": false,
+                "keywords": [
+                  "Equivalence queries (“does this automaton recognise the right language?”)"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Component_2",
+                "enabled": "enabled",
+                "name": "Component 2",
+                "merged": false,
+                "keywords": [
+                  "Component 2"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "child",
+                "name": "Angluin (example)",
+                "id": "Angluin__example_",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Arrow_12",
+                    "enabled": "enabled",
+                    "name": "Arrow 12",
+                    "merged": false,
+                    "keywords": [
+                      "Arrow 12"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_blue___varepsilon__color_red___varepsilon_",
+                    "enabled": "enabled",
+                    "name": "\\color{blue}{\\varepsilon}\\color{red}{\\varepsilon}",
+                    "merged": true,
+                    "keywords": [
+                      "\\color{blue}{\\varepsilon}\\color{red}{\\varepsilon}"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Is_accepted_",
+                    "enabled": "enabled",
+                    "name": "Is accepted?",
+                    "merged": true,
+                    "keywords": [
+                      "Is accepted?"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "Arrow_12",
+                    "enabled": "enabled",
+                    "name": "Arrow 12",
+                    "merged": false,
+                    "keywords": [
+                      "Arrow 12"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "Is_accepted_",
+                    "enabled": "enabled",
+                    "name": "Is accepted?",
+                    "merged": true,
+                    "keywords": [
+                      "Is accepted?"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "_color_blue___varepsilon__color_red___varepsilon_",
+                    "enabled": "enabled",
+                    "name": "\\color{blue}{\\varepsilon}\\color{red}{\\varepsilon}",
+                    "merged": true,
+                    "keywords": [
+                      "\\color{blue}{\\varepsilon}\\color{red}{\\varepsilon}"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "_",
+                    "enabled": "enabled",
+                    "name": "?",
+                    "merged": true,
+                    "keywords": [
+                      "?"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot3",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "46"
+                  },
+                  {
+                    "type": "show",
+                    "id": "page1",
+                    "enabled": "enabled",
+                    "name": "page1",
+                    "merged": false,
+                    "keywords": [
+                      "page1"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot4",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": false,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "44"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_32",
+                    "enabled": "enabled",
+                    "name": "Line 3",
+                    "merged": true,
+                    "keywords": [
+                      "Line 3"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "show",
+                    "id": "page12",
+                    "enabled": "enabled",
+                    "name": "page1",
+                    "merged": true,
+                    "keywords": [
+                      "page1"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__color_blue__varepsilon_a___color_blue__varepsilon_b",
+                    "enabled": "enabled",
+                    "name": "{\\color{blue}\\varepsilon}a,{\\color{blue}\\varepsilon}b",
+                    "merged": true,
+                    "keywords": [
+                      "{\\color{blue}\\varepsilon}a,{\\color{blue}\\varepsilon}b"
+                    ],
+                    "eventId": "45"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Build_a__hypothesis_automaton__from_this_table",
+                    "enabled": "enabled",
+                    "name": "Build a “hypothesis automaton” from this table",
+                    "merged": false,
+                    "keywords": [
+                      "Build a “hypothesis automaton” from this table"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "states__rows_of_the_table",
+                    "enabled": "enabled",
+                    "name": "states: rows of the table",
+                    "merged": false,
+                    "keywords": [
+                      "states: rows of the table"
+                    ],
+                    "eventId": "21"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_1",
+                    "enabled": "enabled",
+                    "name": "Group 1",
+                    "merged": true,
+                    "keywords": [
+                      "Group 1"
+                    ],
+                    "eventId": "25"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_7",
+                    "enabled": "enabled",
+                    "name": "Arrow 7",
+                    "merged": false,
+                    "keywords": [
+                      "Arrow 7"
+                    ],
+                    "eventId": "26"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Text",
+                    "enabled": "enabled",
+                    "name": "test",
+                    "merged": true,
+                    "keywords": [
+                      "test"
+                    ],
+                    "eventId": "34"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_blue__varepsilon2",
+                    "enabled": "enabled",
+                    "name": "\\color{blue}\\varepsilon",
+                    "merged": true,
+                    "keywords": [
+                      "\\color{blue}\\varepsilon"
+                    ],
+                    "eventId": "35"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_42",
+                    "enabled": "enabled",
+                    "name": "final states: rows accepted with as a suffix",
+                    "merged": false,
+                    "keywords": [
+                      "final states: rows accepted with as a suffix"
+                    ],
+                    "eventId": "23"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_43",
+                    "enabled": "enabled",
+                    "name": "transitions:",
+                    "merged": false,
+                    "keywords": [
+                      "transitions:"
+                    ],
+                    "eventId": "24"
+                  },
+                  {
+                    "type": "show",
+                    "id": "a_b",
+                    "enabled": "enabled",
+                    "name": "a,b",
+                    "merged": true,
+                    "keywords": [
+                      "a,b"
+                    ],
+                    "eventId": "27"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_4",
+                    "enabled": "enabled",
+                    "name": "Arrow 4",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 4"
+                    ],
+                    "eventId": "28"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_begin_cases___textsf_row___varepsilon_a___textsf_row___varepsilon_____textsf_row___varepsilon_b___textsf_row___varepsilon___end_cases_",
+                    "enabled": "enabled",
+                    "name": "\\begin{cases}\n\\textsf{row}(\\varepsilon a)=\\textsf{row}(\\varepsilon)\\\\\n\\textsf{row}(\\varepsilon b)=\\textsf{row}(\\varepsilon)\n\\end{cases}",
+                    "merged": true,
+                    "keywords": [
+                      "\\begin{cases}\n\\textsf{row}(\\varepsilon a)=\\textsf{row}(\\varepsilon)\\\\\n\\textsf{row}(\\varepsilon b)=\\textsf{row}(\\varepsilon)\n\\end{cases}"
+                    ],
+                    "eventId": "29"
+                  },
+                  {
+                    "type": "show",
+                    "id": "should_be_accepted",
+                    "enabled": "enabled",
+                    "name": "should be accepted",
+                    "merged": false,
+                    "keywords": [
+                      "should be accepted"
+                    ],
+                    "eventId": "49"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Not_correct",
+                    "enabled": "enabled",
+                    "name": "Not correct",
+                    "merged": true,
+                    "keywords": [
+                      "Not correct"
+                    ],
+                    "eventId": "50"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_13",
+                    "enabled": "enabled",
+                    "name": "Arrow 13",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 13"
+                    ],
+                    "eventId": "51"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_underbrace__hphantom__hspace_6cm______",
+                    "enabled": "enabled",
+                    "name": "\\underbrace{\\hphantom{\\hspace{3cm}}}_{}",
+                    "merged": true,
+                    "keywords": [
+                      "\\underbrace{\\hphantom{\\hspace{3cm}}}_{}"
+                    ],
+                    "eventId": "52"
+                  },
+                  {
+                    "type": "show",
+                    "id": "ab",
+                    "enabled": "enabled",
+                    "name": "ab",
+                    "merged": true,
+                    "keywords": [
+                      "ab"
+                    ],
+                    "eventId": "53"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_blue_a",
+                    "enabled": "enabled",
+                    "name": "\\color{blue}a",
+                    "merged": false,
+                    "keywords": [
+                      "\\color{blue}a"
+                    ],
+                    "eventId": "37"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_blue_ab",
+                    "enabled": "enabled",
+                    "name": "\\color{blue}ab",
+                    "merged": true,
+                    "keywords": [
+                      "\\color{blue}ab"
+                    ],
+                    "eventId": "38"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__color_blue_ab__a___color_blue_ab__a___color_blue_ab_b_2",
+                    "enabled": "enabled",
+                    "name": "{\\color{blue}a }a,{\\color{blue}ab }a,{\\color{blue}ab}b,",
+                    "merged": false,
+                    "keywords": [
+                      "{\\color{blue}a }a,{\\color{blue}ab }a,{\\color{blue}ab}b,"
+                    ],
+                    "eventId": "73"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "39"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_top",
+                    "enabled": "enabled",
+                    "name": "\\top",
+                    "merged": true,
+                    "keywords": [
+                      "\\top"
+                    ],
+                    "eventId": "40"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Text2",
+                    "enabled": "enabled",
+                    "name": "{\\color{blue}a}b",
+                    "merged": true,
+                    "keywords": [
+                      "{\\color{blue}a}b"
+                    ],
+                    "eventId": "42"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot2",
+                    "enabled": "enabled",
+                    "name": "\\top",
+                    "merged": true,
+                    "keywords": [
+                      "\\top"
+                    ],
+                    "eventId": "43"
+                  },
+                  {
+                    "type": "show",
+                    "id": "PROBLEM_",
+                    "enabled": "enabled",
+                    "name": "PROBLEM:",
+                    "merged": false,
+                    "keywords": [
+                      "PROBLEM:"
+                    ],
+                    "eventId": "54"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_row__a___textsf_row__b_",
+                    "enabled": "enabled",
+                    "name": "\\textsf{row}(\\varepsilon)=\\textsf{row}(a)",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{row}(\\varepsilon)=\\textsf{row}(a)"
+                    ],
+                    "eventId": "55"
+                  },
+                  {
+                    "type": "show",
+                    "id": "but",
+                    "enabled": "enabled",
+                    "name": "but",
+                    "merged": true,
+                    "keywords": [
+                      "but"
+                    ],
+                    "eventId": "56"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_row__ab___textsf_row__bb_",
+                    "enabled": "enabled",
+                    "name": "\\textsf{row}(\\varepsilon b)=\\textsf{row}(ab)",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{row}(\\varepsilon b)=\\textsf{row}(ab)"
+                    ],
+                    "eventId": "57"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_red_a",
+                    "enabled": "enabled",
+                    "name": "\\color{red}a",
+                    "merged": false,
+                    "keywords": [
+                      "\\color{red}a"
+                    ],
+                    "eventId": "58"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_color_red_b",
+                    "enabled": "enabled",
+                    "name": "\\color{red}b",
+                    "merged": true,
+                    "keywords": [
+                      "\\color{red}b"
+                    ],
+                    "eventId": "59"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot5",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": false,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "60"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot6",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "61"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot7",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "62"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_top2",
+                    "enabled": "enabled",
+                    "name": "\\top",
+                    "merged": true,
+                    "keywords": [
+                      "\\top"
+                    ],
+                    "eventId": "63"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot9",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "64"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_bot10",
+                    "enabled": "enabled",
+                    "name": "\\bot",
+                    "merged": true,
+                    "keywords": [
+                      "\\bot"
+                    ],
+                    "eventId": "65"
+                  },
+                  {
+                    "type": "show",
+                    "id": "___",
+                    "enabled": "enabled",
+                    "name": "...",
+                    "merged": true,
+                    "keywords": [
+                      "..."
+                    ],
+                    "eventId": "66"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "PROBLEM_",
+                    "enabled": "enabled",
+                    "name": "PROBLEM:",
+                    "merged": true,
+                    "keywords": [
+                      "PROBLEM:"
+                    ],
+                    "eventId": "67"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "_textsf_row__a___textsf_row__b_",
+                    "enabled": "enabled",
+                    "name": "\\textsf{row}(\\varepsilon)=\\textsf{row}(a)",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{row}(\\varepsilon)=\\textsf{row}(a)"
+                    ],
+                    "eventId": "68"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "but",
+                    "enabled": "enabled",
+                    "name": "but",
+                    "merged": true,
+                    "keywords": [
+                      "but"
+                    ],
+                    "eventId": "69"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "_textsf_row__ab___textsf_row__bb_",
+                    "enabled": "enabled",
+                    "name": "\\textsf{row}(\\varepsilon b)=\\textsf{row}(ab)",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{row}(\\varepsilon b)=\\textsf{row}(ab)"
+                    ],
+                    "eventId": "70"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Yields_the_correct_automaton_",
+                    "enabled": "enabled",
+                    "name": "Yields the correct automaton!",
+                    "merged": false,
+                    "keywords": [
+                      "Yields the correct automaton!"
+                    ],
+                    "eventId": "71"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Rectangle_3",
+                    "enabled": "enabled",
+                    "name": "Rectangle 3",
+                    "merged": true,
+                    "keywords": [
+                      "Rectangle 3"
+                    ],
+                    "eventId": "72"
+                  }
+                ],
+                "keywords": [
+                  "Strategy: build up a table of observations",
+                  "?",
+                  "Angluin (example)"
+                ],
+                "eventId": "4",
+                "originalParams": {
+                  "_": {
+                    "opacity": 1
+                  },
+                  "Arrow_12": {
+                    "opacity": 1
+                  },
+                  "Is_accepted_": {
+                    "opacity": 1
+                  },
+                  "_color_blue___varepsilon__color_red___varepsilon_": {
+                    "opacity": 1
+                  },
+                  "_bot": {
+                    "opacity": 1
+                  },
+                  "Build_a__hypothesis_automaton__from_this_table": {
+                    "opacity": 1
+                  },
+                  "page12": {
+                    "opacity": 1
+                  },
+                  "page1": {
+                    "opacity": 1
+                  },
+                  "Text2": {
+                    "opacity": 1
+                  },
+                  "Line_32": {
+                    "opacity": 1
+                  },
+                  "_bot2": {
+                    "opacity": 1
+                  },
+                  "states__rows_of_the_table": {
+                    "opacity": 1
+                  },
+                  "Group_42": {
+                    "opacity": 1
+                  },
+                  "Group_43": {
+                    "opacity": 1
+                  },
+                  "Group_1": {
+                    "opacity": 1
+                  },
+                  "Arrow_7": {
+                    "opacity": 1
+                  },
+                  "a_b": {
+                    "opacity": 1
+                  },
+                  "Arrow_4": {
+                    "opacity": 1
+                  },
+                  "_begin_cases___textsf_row___varepsilon_a___textsf_row___varepsilon_____textsf_row___varepsilon_b___textsf_row___varepsilon___end_cases_": {
+                    "opacity": 1
+                  },
+                  "Text": {
+                    "opacity": 1
+                  },
+                  "_color_blue__varepsilon2": {
+                    "opacity": 1
+                  },
+                  "_color_blue_a": {
+                    "opacity": 1
+                  },
+                  "_color_blue_ab": {
+                    "opacity": 1
+                  },
+                  "_top": {
+                    "opacity": 1
+                  },
+                  "_bot4": {
+                    "opacity": 1
+                  },
+                  "__color_blue__varepsilon_a___color_blue__varepsilon_b": {
+                    "opacity": 1
+                  },
+                  "_bot3": {
+                    "opacity": 1
+                  },
+                  "should_be_accepted": {
+                    "opacity": 1
+                  },
+                  "Not_correct": {
+                    "opacity": 1
+                  },
+                  "Arrow_13": {
+                    "opacity": 1
+                  },
+                  "_underbrace__hphantom__hspace_6cm______": {
+                    "opacity": 1
+                  },
+                  "ab": {
+                    "opacity": 1
+                  },
+                  "PROBLEM_": {
+                    "opacity": 1
+                  },
+                  "_textsf_row__a___textsf_row__b_": {
+                    "opacity": 1
+                  },
+                  "but": {
+                    "opacity": 1
+                  },
+                  "_textsf_row__ab___textsf_row__bb_": {
+                    "opacity": 1
+                  },
+                  "_color_red_a": {
+                    "opacity": 1
+                  },
+                  "_color_red_b": {
+                    "opacity": 1
+                  },
+                  "_bot5": {
+                    "opacity": 1
+                  },
+                  "_bot6": {
+                    "opacity": 1
+                  },
+                  "_bot7": {
+                    "opacity": 1
+                  },
+                  "_top2": {
+                    "opacity": 1
+                  },
+                  "_bot9": {
+                    "opacity": 1
+                  },
+                  "_bot10": {
+                    "opacity": 1
+                  },
+                  "___": {
+                    "opacity": 1
+                  },
+                  "Yields_the_correct_automaton_": {
+                    "opacity": 1
+                  },
+                  "Rectangle_3": {
+                    "opacity": 1
+                  },
+                  "__color_blue_ab__a___color_blue_ab__a___color_blue_ab_b_2": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "Algo (angluin)",
+                "id": "Algo__angluin_",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Closedness_",
+                    "enabled": "enabled",
+                    "name": "Closedness:",
+                    "merged": false,
+                    "keywords": [
+                      "Closedness:"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_each_letter_leads_to_at_least_one_state_",
+                    "enabled": "enabled",
+                    "name": "“each letter leads to at least one state”",
+                    "merged": true,
+                    "keywords": [
+                      "“each letter leads to at least one state”"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "q__prime___textsf_row__qa___textsf_row__q__prime_",
+                    "enabled": "enabled",
+                    "name": "q^\\prime, \\textsf{row}(qa)=\\textsf{row}(q^\\prime)",
+                    "merged": true,
+                    "keywords": [
+                      "q^\\prime, \\textsf{row}(qa)=\\textsf{row}(q^\\prime)"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_exists",
+                    "enabled": "enabled",
+                    "name": "\\exists",
+                    "merged": true,
+                    "keywords": [
+                      "\\exists"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_states_are_rows_of_",
+                    "enabled": "enabled",
+                    "name": "(states are rows of ",
+                    "merged": false,
+                    "keywords": [
+                      "(states are rows of "
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Q",
+                    "enabled": "enabled",
+                    "name": "Q",
+                    "merged": true,
+                    "keywords": [
+                      "Q"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_9",
+                    "enabled": "enabled",
+                    "name": "Line 9",
+                    "merged": true,
+                    "keywords": [
+                      "Line 9"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_10",
+                    "enabled": "enabled",
+                    "name": "Line 10",
+                    "merged": true,
+                    "keywords": [
+                      "Line 10"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Ellipse_8",
+                    "enabled": "enabled",
+                    "name": "Ellipse 8",
+                    "merged": true,
+                    "keywords": [
+                      "Ellipse 8"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_row__q__prime_",
+                    "enabled": "enabled",
+                    "name": "\\textsf{row}(q^\\prime)",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{row}(q^\\prime)"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Capture_d_e_cran_2024_09_18_a__17_40_16_1",
+                    "enabled": "enabled",
+                    "name": "Capture d’écran 2024-09-18 à 17.40.16 1",
+                    "merged": false,
+                    "keywords": [
+                      "Capture d’écran 2024-09-18 à 17.40.16 1"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Text",
+                    "enabled": "enabled",
+                    "name": "returns the minimal automaton recognising the same language as the teacher’s",
+                    "merged": false,
+                    "keywords": [
+                      "returns the minimal automaton recognising the same language as the teacher’s"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "child",
+                    "name": "Myhil-Nerode",
+                    "id": "Myhil_Nerode",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "Theorem__Myhill_Nerode___The_state_space_of_the_minimal_automaton_corresponds_to_the_direct_image_of_the_following_map_",
+                        "enabled": "enabled",
+                        "name": "Theorem (Myhill-Nerode): The state space of the minimal automaton corresponds to the direct image of the following map,",
+                        "merged": false,
+                        "keywords": [
+                          "Theorem (Myhill-Nerode): The state space of the minimal automaton corresponds to the direct image of the following map,"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_textsf_res__u_in_Sigma___mapsto__v_in_Sigma___mid_uv_in_mathcal_L___",
+                        "enabled": "enabled",
+                        "name": "\\textsf{res}:u\\in\\Sigma^*\\mapsto\\{v\\in\\Sigma^*\\mid uv\\in\\mathcal{L}\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\textsf{res}:u\\in\\Sigma^*\\mapsto\\{v\\in\\Sigma^*\\mid uv\\in\\mathcal{L}\\}"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "u_1_sim___mathcal_L__u_2___iff____left____forall___v_in_Sigma___u_1v_in_mathcal_L__iff_u_2v_in_mathcal_L____right_",
+                        "enabled": "enabled",
+                        "name": "u_1\\sim_{\\mathcal{L}}u_2\n\n\\iff\n\n \\left[\\,\\forall\\, v\\in\\Sigma^*,u_1v\\in\\mathcal{L}\\iff u_2v\\in\\mathcal{L}\\,\\right]",
+                        "merged": false,
+                        "keywords": [
+                          "u_1\\sim_{\\mathcal{L}}u_2\n\n\\iff\n\n \\left[\\,\\forall\\, v\\in\\Sigma^*,u_1v\\in\\mathcal{L}\\iff u_2v\\in\\mathcal{L}\\,\\right]"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Sigma____sim___mathcal_L__",
+                        "enabled": "enabled",
+                        "name": "{\\Sigma^*}/\\sim_{\\mathcal{L}}",
+                        "merged": true,
+                        "keywords": [
+                          "{\\Sigma^*}/\\sim_{\\mathcal{L}}"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_textsf_row__u_in_phantom___Q_cup_Q_Sigma_mapsto__v_in_phantom__T_mid_uv_in_mathcal_L___",
+                        "enabled": "enabled",
+                        "name": "\\textsf{row}:u\\in\\phantom{} {\\color{red}Q\\cup Q\\Sigma}\\mapsto\\{v\\in\\phantom{}{\\color{blue}T}\\mid uv\\in\\mathcal{L}\\}",
+                        "merged": false,
+                        "keywords": [
+                          "\\textsf{row}:u\\in\\phantom{} {\\color{red}Q\\cup Q\\Sigma}\\mapsto\\{v\\in\\phantom{}{\\color{blue}T}\\mid uv\\in\\mathcal{L}\\}"
+                        ],
+                        "eventId": "8"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text2",
+                        "enabled": "enabled",
+                        "name": "\\color{blue}\\Sigma^*",
+                        "merged": true,
+                        "keywords": [
+                          "\\color{blue}\\Sigma^*"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_color_red__Sigma__",
+                        "enabled": "enabled",
+                        "name": "\\color{red}\\Sigma^*",
+                        "merged": true,
+                        "keywords": [
+                          "\\color{red}\\Sigma^*"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "show",
+                        "id": "u_1_sim___mathcal_L___Tu_2__iff__left____forall___v_in_phantom__T_u_1v_in_mathcal_L__iff_u_2v_in_mathcal_L____right_",
+                        "enabled": "enabled",
+                        "name": "u_1\\sim_{\\mathcal{L}}^{{\\color{blue}T}}u_2 \\iff \\left[\\,\\forall\\, v\\in\\phantom{}{\\color{blue}T},u_1v\\in\\mathcal{L}\\iff u_2v\\in\\mathcal{L}\\,\\right]",
+                        "merged": false,
+                        "keywords": [
+                          "u_1\\sim_{\\mathcal{L}}^{{\\color{blue}T}}u_2 \\iff \\left[\\,\\forall\\, v\\in\\phantom{}{\\color{blue}T},u_1v\\in\\mathcal{L}\\iff u_2v\\in\\mathcal{L}\\,\\right]"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Q_cup_Q_Sigma__sim___mathcal_L___T",
+                        "enabled": "enabled",
+                        "name": "{\\color{red}{Q\\cup Q\\Sigma}}/\\sim_{\\mathcal{L}}^{{\\color{blue}T}}",
+                        "merged": true,
+                        "keywords": [
+                          "{\\color{red}{Q\\cup Q\\Sigma}}/\\sim_{\\mathcal{L}}^{{\\color{blue}T}}"
+                        ],
+                        "eventId": "6"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_color_blue__Sigma__",
+                        "enabled": "enabled",
+                        "name": "\\color{blue}\\Sigma^*",
+                        "merged": true,
+                        "keywords": [
+                          "\\color{blue}\\Sigma^*"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_color_red__Sigma__2",
+                        "enabled": "enabled",
+                        "name": "\\color{red}\\Sigma^*",
+                        "merged": true,
+                        "keywords": [
+                          "\\color{red}\\Sigma^*"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text",
+                        "enabled": "enabled",
+                        "name": "Angluin’s theorem progressively refines the Myhill-Nerode relation.",
+                        "merged": false,
+                        "keywords": [
+                          "Angluin’s theorem progressively refines the Myhill-Nerode relation."
+                        ],
+                        "eventId": "7"
+                      }
+                    ],
+                    "keywords": [
+                      "Myhill-Nerode: another point of view on learning",
+                      "Myhil-Nerode"
+                    ],
+                    "eventId": "5",
+                    "originalParams": {
+                      "Theorem__Myhill_Nerode___The_state_space_of_the_minimal_automaton_corresponds_to_the_direct_image_of_the_following_map_": {
+                        "opacity": 1
+                      },
+                      "_textsf_res__u_in_Sigma___mapsto__v_in_Sigma___mid_uv_in_mathcal_L___": {
+                        "opacity": 1
+                      },
+                      "u_1_sim___mathcal_L__u_2___iff____left____forall___v_in_Sigma___u_1v_in_mathcal_L__iff_u_2v_in_mathcal_L____right_": {
+                        "opacity": 1
+                      },
+                      "_Sigma____sim___mathcal_L__": {
+                        "opacity": 1
+                      },
+                      "u_1_sim___mathcal_L___Tu_2__iff__left____forall___v_in_phantom__T_u_1v_in_mathcal_L__iff_u_2v_in_mathcal_L____right_": {
+                        "opacity": 1
+                      },
+                      "Q_cup_Q_Sigma__sim___mathcal_L___T": {
+                        "opacity": 1
+                      },
+                      "Text": {
+                        "opacity": 1
+                      },
+                      "_textsf_row__u_in_phantom___Q_cup_Q_Sigma_mapsto__v_in_phantom__T_mid_uv_in_mathcal_L___": {
+                        "opacity": 1
+                      },
+                      "Text2": {
+                        "opacity": 1
+                      },
+                      "_color_red__Sigma__": {
+                        "opacity": 1
+                      },
+                      "_color_blue__Sigma__": {
+                        "opacity": 1
+                      },
+                      "_color_red__Sigma__2": {
+                        "opacity": 1
+                      }
+                    }
+                  }
+                ],
+                "keywords": [
+                  "Consistency:",
+                  "“each letter leads to at most one state”",
+                  "Algo (angluin)"
+                ],
+                "eventId": "5",
+                "originalParams": {
+                  "Closedness_": {
+                    "opacity": 1
+                  },
+                  "_each_letter_leads_to_at_least_one_state_": {
+                    "opacity": 1
+                  },
+                  "q__prime___textsf_row__qa___textsf_row__q__prime_": {
+                    "opacity": 1
+                  },
+                  "Capture_d_e_cran_2024_09_18_a__17_40_16_1": {
+                    "opacity": 1
+                  },
+                  "_exists": {
+                    "opacity": 1
+                  },
+                  "Line_9": {
+                    "opacity": 1
+                  },
+                  "Line_10": {
+                    "opacity": 1
+                  },
+                  "Ellipse_8": {
+                    "opacity": 1
+                  },
+                  "_textsf_row__q__prime_": {
+                    "opacity": 1
+                  },
+                  "_states_are_rows_of_": {
+                    "opacity": 1
+                  },
+                  "Q": {
+                    "opacity": 1
+                  },
+                  "Text": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "The Algorithm",
+              "Angluin, 1987: “learning” automata with the help of:",
+              "Angluin"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Membership_queries___is_this_word_accepted___": {
+                "opacity": 1
+              },
+              "Equivalence_queries___does_this_automaton_recognise_the_right_language___": {
+                "opacity": 1
+              },
+              "Component_2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Automata CT",
+            "id": "Automata_CT",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "develop_a_new_algorithm_for_NFA",
+                "enabled": "enabled",
+                "name": "develop a new algorithm for NFA",
+                "merged": false,
+                "keywords": [
+                  "develop a new algorithm for NFA"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "develop_a_new_algorithm_for_weighted_automata",
+                "enabled": "enabled",
+                "name": "develop a new algorithm for weighted automata",
+                "merged": false,
+                "keywords": [
+                  "develop a new algorithm for weighted automata"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "develop_a_new_algorithm_for_alternating_automata",
+                "enabled": "enabled",
+                "name": "develop a new algorithm for alternating automata",
+                "merged": false,
+                "keywords": [
+                  "develop a new algorithm for alternating automata"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "develop_a_new_algorithm_for_string_transducers",
+                "enabled": "enabled",
+                "name": "develop a new algorithm for string transducers",
+                "merged": false,
+                "keywords": [
+                  "develop a new algorithm for string transducers"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "____________________________________________________________________________",
+                "enabled": "enabled",
+                "name": "............................................................................",
+                "merged": false,
+                "keywords": [
+                  "............................................................................"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "If_only_there_was_a_general_framework_which_sums_up_all_these_structures___",
+                "enabled": "enabled",
+                "name": "If only there was a general framework which sums up all these structures...",
+                "merged": false,
+                "keywords": [
+                  "If only there was a general framework which sums up all these structures..."
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Star_1",
+                "enabled": "enabled",
+                "name": "Star 1",
+                "merged": false,
+                "keywords": [
+                  "Star 1"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Category_Theory___",
+                "enabled": "enabled",
+                "name": "Category Theory!!!",
+                "merged": true,
+                "keywords": [
+                  "Category Theory!!!"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Star_2",
+                "enabled": "enabled",
+                "name": "Star 2",
+                "merged": true,
+                "keywords": [
+                  "Star 2"
+                ],
+                "eventId": "9"
+              }
+            ],
+            "keywords": [
+              "Generalising the algorithm",
+              "Problem: DFA are very simple structures",
+              "Automata CT"
+            ],
+            "eventId": "3",
+            "originalParams": {
+              "develop_a_new_algorithm_for_NFA": {
+                "opacity": 1
+              },
+              "develop_a_new_algorithm_for_weighted_automata": {
+                "opacity": 1
+              },
+              "develop_a_new_algorithm_for_alternating_automata": {
+                "opacity": 1
+              },
+              "develop_a_new_algorithm_for_string_transducers": {
+                "opacity": 1
+              },
+              "____________________________________________________________________________": {
+                "opacity": 1
+              },
+              "If_only_there_was_a_general_framework_which_sums_up_all_these_structures___": {
+                "opacity": 1
+              },
+              "Star_1": {
+                "opacity": 1
+              },
+              "Category_Theory___": {
+                "opacity": 1
+              },
+              "Star_2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Line_6",
+            "enabled": "enabled",
+            "name": "Line 6",
+            "merged": false,
+            "keywords": [
+              "Line 6"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "Functorial_Automata",
+            "enabled": "enabled",
+            "name": "Functorial Automata",
+            "merged": true,
+            "keywords": [
+              "Functorial Automata"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "child",
+            "name": "functorial prez",
+            "id": "functorial_prez2",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "___cdot__2",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": false,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "68"
+              },
+              {
+                "type": "show",
+                "id": "S3",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "69"
+              },
+              {
+                "type": "show",
+                "id": "___cdot__3",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "70"
+              },
+              {
+                "type": "show",
+                "id": "DFAs",
+                "enabled": "enabled",
+                "name": "NFAs",
+                "merged": true,
+                "keywords": [
+                  "NFAs"
+                ],
+                "eventId": "71"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_18",
+                "enabled": "enabled",
+                "name": "Arrow 18",
+                "merged": true,
+                "keywords": [
+                  "Arrow 18"
+                ],
+                "eventId": "67"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_19",
+                "enabled": "enabled",
+                "name": "Arrow 19",
+                "merged": true,
+                "keywords": [
+                  "Arrow 19"
+                ],
+                "eventId": "66"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_17",
+                "enabled": "enabled",
+                "name": "Arrow 17",
+                "merged": true,
+                "keywords": [
+                  "Arrow 17"
+                ],
+                "eventId": "65"
+              },
+              {
+                "type": "show",
+                "id": "DFAs",
+                "enabled": "enabled",
+                "name": "NFAs",
+                "merged": true,
+                "keywords": [
+                  "NFAs"
+                ],
+                "eventId": "61"
+              },
+              {
+                "type": "show",
+                "id": "_arrows___relations_",
+                "enabled": "enabled",
+                "name": "(arrows = relations)",
+                "merged": true,
+                "keywords": [
+                  "(arrows = relations)"
+                ],
+                "eventId": "97"
+              },
+              {
+                "type": "show",
+                "id": "_delta_a__a_in_Sigma_2",
+                "enabled": "enabled",
+                "name": "\\delta_a (a\\in\\Sigma)",
+                "merged": true,
+                "keywords": [
+                  "\\delta_a (a\\in\\Sigma)"
+                ],
+                "eventId": "105"
+              },
+              {
+                "type": "show",
+                "id": "_arrows___linear_transformations_",
+                "enabled": "enabled",
+                "name": "(arrows = linear transformations)",
+                "merged": false,
+                "keywords": [
+                  "(arrows = linear transformations)"
+                ],
+                "eventId": "98"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_22",
+                "enabled": "enabled",
+                "name": "Arrow 22",
+                "merged": true,
+                "keywords": [
+                  "Arrow 22"
+                ],
+                "eventId": "74"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_21",
+                "enabled": "enabled",
+                "name": "Arrow 21",
+                "merged": true,
+                "keywords": [
+                  "Arrow 21"
+                ],
+                "eventId": "75"
+              },
+              {
+                "type": "show",
+                "id": "_mathbb_K_",
+                "enabled": "enabled",
+                "name": "\\mathbb{K}",
+                "merged": true,
+                "keywords": [
+                  "\\mathbb{K}"
+                ],
+                "eventId": "76"
+              },
+              {
+                "type": "show",
+                "id": "S2",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "77"
+              },
+              {
+                "type": "show",
+                "id": "_mathbb_K_2",
+                "enabled": "enabled",
+                "name": "\\mathbb{K}",
+                "merged": true,
+                "keywords": [
+                  "\\mathbb{K}"
+                ],
+                "eventId": "78"
+              },
+              {
+                "type": "show",
+                "id": "Weighted_automata",
+                "enabled": "enabled",
+                "name": "Weighted automata",
+                "merged": true,
+                "keywords": [
+                  "Weighted automata"
+                ],
+                "eventId": "79"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_20",
+                "enabled": "enabled",
+                "name": "Arrow 20",
+                "merged": true,
+                "keywords": [
+                  "Arrow 20"
+                ],
+                "eventId": "73"
+              },
+              {
+                "type": "show",
+                "id": "_delta_a__a_in_Sigma_3",
+                "enabled": "enabled",
+                "name": "\\delta_a (a\\in\\Sigma)",
+                "merged": true,
+                "keywords": [
+                  "\\delta_a (a\\in\\Sigma)"
+                ],
+                "eventId": "106"
+              },
+              {
+                "type": "hide",
+                "id": "_arrows___functions_",
+                "enabled": "enabled",
+                "name": "(arrows = functions)",
+                "merged": false,
+                "keywords": [
+                  "(arrows = functions)"
+                ],
+                "eventId": "94"
+              },
+              {
+                "type": "hide",
+                "id": "_arrows___relations_",
+                "enabled": "enabled",
+                "name": "(arrows = relations)",
+                "merged": true,
+                "keywords": [
+                  "(arrows = relations)"
+                ],
+                "eventId": "95"
+              },
+              {
+                "type": "hide",
+                "id": "_arrows___linear_transformations_",
+                "enabled": "enabled",
+                "name": "(arrows = linear transformations)",
+                "merged": true,
+                "keywords": [
+                  "(arrows = linear transformations)"
+                ],
+                "eventId": "96"
+              },
+              {
+                "type": "hide",
+                "id": "DFAs2",
+                "enabled": "enabled",
+                "name": "DFAs",
+                "merged": true,
+                "keywords": [
+                  "DFAs"
+                ],
+                "eventId": "72"
+              },
+              {
+                "type": "hide",
+                "id": "DFAs",
+                "enabled": "enabled",
+                "name": "NFAs",
+                "merged": true,
+                "keywords": [
+                  "NFAs"
+                ],
+                "eventId": "63"
+              },
+              {
+                "type": "hide",
+                "id": "Weighted_automata",
+                "enabled": "enabled",
+                "name": "Weighted automata",
+                "merged": true,
+                "keywords": [
+                  "Weighted automata"
+                ],
+                "eventId": "64"
+              },
+              {
+                "type": "hide",
+                "id": "___cdot__",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "hide",
+                "id": "___cdot__2",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "hide",
+                "id": "_mathbb_K_",
+                "enabled": "enabled",
+                "name": "\\mathbb{K}",
+                "merged": true,
+                "keywords": [
+                  "\\mathbb{K}"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "hide",
+                "id": "S",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "hide",
+                "id": "S3",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "hide",
+                "id": "S2",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "hide",
+                "id": "___bot__top__",
+                "enabled": "enabled",
+                "name": "\\{\\bot,\\top\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\bot,\\top\\}"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "hide",
+                "id": "___cdot__3",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "hide",
+                "id": "_mathbb_K_2",
+                "enabled": "enabled",
+                "name": "\\mathbb{K}",
+                "merged": true,
+                "keywords": [
+                  "\\mathbb{K}"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "hide",
+                "id": "_delta_a__a_in_Sigma_",
+                "enabled": "enabled",
+                "name": "\\delta_a (a\\in\\Sigma)",
+                "merged": true,
+                "keywords": [
+                  "\\delta_a (a\\in\\Sigma)"
+                ],
+                "eventId": "99"
+              },
+              {
+                "type": "hide",
+                "id": "_delta_a__a_in_Sigma_2",
+                "enabled": "enabled",
+                "name": "\\delta_a (a\\in\\Sigma)",
+                "merged": true,
+                "keywords": [
+                  "\\delta_a (a\\in\\Sigma)"
+                ],
+                "eventId": "100"
+              },
+              {
+                "type": "hide",
+                "id": "_delta_a__a_in_Sigma_3",
+                "enabled": "enabled",
+                "name": "\\delta_a (a\\in\\Sigma)",
+                "merged": true,
+                "keywords": [
+                  "\\delta_a (a\\in\\Sigma)"
+                ],
+                "eventId": "101"
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_14",
+                "enabled": "enabled",
+                "name": "Arrow 14",
+                "merged": false,
+                "keywords": [
+                  "Arrow 14"
+                ],
+                "eventId": "85",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_17",
+                "enabled": "enabled",
+                "name": "Arrow 17",
+                "merged": true,
+                "keywords": [
+                  "Arrow 17"
+                ],
+                "eventId": "86",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_20",
+                "enabled": "enabled",
+                "name": "Arrow 20",
+                "merged": true,
+                "keywords": [
+                  "Arrow 20"
+                ],
+                "eventId": "87",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_16",
+                "enabled": "enabled",
+                "name": "Arrow 16",
+                "merged": true,
+                "keywords": [
+                  "Arrow 16"
+                ],
+                "eventId": "88",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_19",
+                "enabled": "enabled",
+                "name": "Arrow 19",
+                "merged": true,
+                "keywords": [
+                  "Arrow 19"
+                ],
+                "eventId": "89",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_22",
+                "enabled": "enabled",
+                "name": "Arrow 22",
+                "merged": true,
+                "keywords": [
+                  "Arrow 22"
+                ],
+                "eventId": "90",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_15",
+                "enabled": "enabled",
+                "name": "Arrow 15",
+                "merged": true,
+                "keywords": [
+                  "Arrow 15"
+                ],
+                "eventId": "91",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_18",
+                "enabled": "enabled",
+                "name": "Arrow 18",
+                "merged": true,
+                "keywords": [
+                  "Arrow 18"
+                ],
+                "eventId": "92",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "animate",
+                "id": "Arrow_21",
+                "enabled": "enabled",
+                "name": "Arrow 21",
+                "merged": true,
+                "keywords": [
+                  "Arrow 21"
+                ],
+                "eventId": "93",
+                "params": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "type": "show",
+                "id": "_rhd",
+                "enabled": "enabled",
+                "name": "\\rhd",
+                "merged": false,
+                "keywords": [
+                  "\\rhd"
+                ],
+                "eventId": "102"
+              },
+              {
+                "type": "show",
+                "id": "a_in_Sigma",
+                "enabled": "enabled",
+                "name": "a\\in\\Sigma",
+                "merged": true,
+                "keywords": [
+                  "a\\in\\Sigma"
+                ],
+                "eventId": "103"
+              },
+              {
+                "type": "show",
+                "id": "_lhd",
+                "enabled": "enabled",
+                "name": "\\lhd",
+                "merged": true,
+                "keywords": [
+                  "\\lhd"
+                ],
+                "eventId": "104"
+              },
+              {
+                "type": "show",
+                "id": "_textsf_in_",
+                "enabled": "enabled",
+                "name": "\\textsf{in}",
+                "merged": true,
+                "keywords": [
+                  "\\textsf{in}"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "_textsf_st_",
+                "enabled": "enabled",
+                "name": "\\textsf{st}",
+                "merged": true,
+                "keywords": [
+                  "\\textsf{st}"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "_textsf_out_",
+                "enabled": "enabled",
+                "name": "\\textsf{out}",
+                "merged": true,
+                "keywords": [
+                  "\\textsf{out}"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "_mathcal_I___Sigma",
+                "enabled": "enabled",
+                "name": "\\mathcal{I}_\\Sigma",
+                "merged": true,
+                "keywords": [
+                  "\\mathcal{I}_\\Sigma"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_24",
+                "enabled": "enabled",
+                "name": "Arrow 24",
+                "merged": false,
+                "keywords": [
+                  "Arrow 24"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_26",
+                "enabled": "enabled",
+                "name": "Arrow 26",
+                "merged": true,
+                "keywords": [
+                  "Arrow 26"
+                ],
+                "eventId": "28"
+              },
+              {
+                "type": "show",
+                "id": "S4",
+                "enabled": "enabled",
+                "name": "S",
+                "merged": true,
+                "keywords": [
+                  "S"
+                ],
+                "eventId": "29"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_25",
+                "enabled": "enabled",
+                "name": "Arrow 25",
+                "merged": true,
+                "keywords": [
+                  "Arrow 25"
+                ],
+                "eventId": "30"
+              },
+              {
+                "type": "show",
+                "id": "X",
+                "enabled": "enabled",
+                "name": "X",
+                "merged": true,
+                "keywords": [
+                  "X"
+                ],
+                "eventId": "31"
+              },
+              {
+                "type": "show",
+                "id": "_mathcal_C_",
+                "enabled": "enabled",
+                "name": "\\mathcal{C}",
+                "merged": true,
+                "keywords": [
+                  "\\mathcal{C}"
+                ],
+                "eventId": "32"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_23",
+                "enabled": "enabled",
+                "name": "Arrow 23",
+                "merged": true,
+                "keywords": [
+                  "Arrow 23"
+                ],
+                "eventId": "33"
+              },
+              {
+                "type": "show",
+                "id": "_mathcal_A_",
+                "enabled": "enabled",
+                "name": "\\mathcal{A}",
+                "merged": true,
+                "keywords": [
+                  "\\mathcal{A}"
+                ],
+                "eventId": "34"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "Y",
+                "merged": true,
+                "keywords": [
+                  "Y"
+                ],
+                "eventId": "42"
+              },
+              {
+                "type": "show",
+                "id": "Automata_are_functors_",
+                "enabled": "enabled",
+                "name": "Automata are functors!",
+                "merged": true,
+                "keywords": [
+                  "Automata are functors!"
+                ],
+                "eventId": "59"
+              },
+              {
+                "type": "hide",
+                "id": "X",
+                "enabled": "enabled",
+                "name": "X",
+                "merged": false,
+                "keywords": [
+                  "X"
+                ],
+                "eventId": "43"
+              },
+              {
+                "type": "hide",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "Y",
+                "merged": true,
+                "keywords": [
+                  "Y"
+                ],
+                "eventId": "45"
+              },
+              {
+                "type": "hide",
+                "id": "_mathcal_C_",
+                "enabled": "enabled",
+                "name": "\\mathcal{C}",
+                "merged": true,
+                "keywords": [
+                  "\\mathcal{C}"
+                ],
+                "eventId": "46"
+              },
+              {
+                "type": "show",
+                "id": "___cdot__4",
+                "enabled": "enabled",
+                "name": "\\{\\cdot\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\cdot\\}"
+                ],
+                "eventId": "47"
+              },
+              {
+                "type": "show",
+                "id": "___bot__top__2",
+                "enabled": "enabled",
+                "name": "\\{\\bot,\\top\\}",
+                "merged": true,
+                "keywords": [
+                  "\\{\\bot,\\top\\}"
+                ],
+                "eventId": "48"
+              },
+              {
+                "type": "show",
+                "id": "_mathbf_Set_",
+                "enabled": "enabled",
+                "name": "\\mathbf{Set}",
+                "merged": true,
+                "keywords": [
+                  "\\mathbf{Set}"
+                ],
+                "eventId": "49"
+              },
+              {
+                "type": "show",
+                "id": "Apply_categorical_tools",
+                "enabled": "enabled",
+                "name": "Apply categorical tools",
+                "merged": false,
+                "keywords": [
+                  "Apply categorical tools"
+                ],
+                "eventId": "82"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_27",
+                "enabled": "enabled",
+                "name": "Arrow 27",
+                "merged": true,
+                "keywords": [
+                  "Arrow 27"
+                ],
+                "eventId": "83"
+              },
+              {
+                "type": "child",
+                "name": "minimisation",
+                "id": "minimisation",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "so_are_languages_",
+                    "enabled": "enabled",
+                    "name": "so are languages!",
+                    "merged": true,
+                    "keywords": [
+                      "so are languages!"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_in_2",
+                    "enabled": "enabled",
+                    "name": "\\textsf{in}",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{in}"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_28",
+                    "enabled": "enabled",
+                    "name": "Arrow 28",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 28"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__rhd__w__lhd___w_in_Sigma___",
+                    "enabled": "enabled",
+                    "name": "{\\rhd} w{\\lhd}\\;(w\\in\\Sigma^*)",
+                    "merged": true,
+                    "keywords": [
+                      "{\\rhd} w{\\lhd}\\;(w\\in\\Sigma^*)"
+                    ],
+                    "eventId": "15"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_out_2",
+                    "enabled": "enabled",
+                    "name": "\\textsf{out}",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{out}"
+                    ],
+                    "eventId": "16"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_mathcal_I___Sigma2",
+                    "enabled": "enabled",
+                    "name": "\\mathcal{O}_\\Sigma",
+                    "merged": true,
+                    "keywords": [
+                      "\\mathcal{O}_\\Sigma"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Ellipse_5",
+                    "enabled": "enabled",
+                    "name": "Ellipse 5",
+                    "merged": true,
+                    "keywords": [
+                      "Ellipse 5"
+                    ],
+                    "eventId": "18"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_29",
+                    "enabled": "enabled",
+                    "name": "Arrow 29",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 29"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_iota__Sigma",
+                    "enabled": "enabled",
+                    "name": "\\iota_\\Sigma",
+                    "merged": true,
+                    "keywords": [
+                      "\\iota_\\Sigma"
+                    ],
+                    "eventId": "20"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_30",
+                    "enabled": "enabled",
+                    "name": "Arrow 30",
+                    "merged": false,
+                    "keywords": [
+                      "Arrow 30"
+                    ],
+                    "eventId": "21"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_mathcal_L___Sigma___rightarrow___bot__top__",
+                    "enabled": "enabled",
+                    "name": "\\mathcal{L}:\\Sigma^*\\rightarrow\\{\\bot,\\top\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\mathcal{L}:\\Sigma^*\\rightarrow\\{\\bot,\\top\\}"
+                    ],
+                    "eventId": "22"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_mathcal_A_2",
+                    "enabled": "enabled",
+                    "name": "\\mathcal{A}",
+                    "merged": false,
+                    "keywords": [
+                      "\\mathcal{A}"
+                    ],
+                    "eventId": "23"
+                  },
+                  {
+                    "type": "show",
+                    "id": "recognises",
+                    "enabled": "enabled",
+                    "name": "recognises",
+                    "merged": true,
+                    "keywords": [
+                      "recognises"
+                    ],
+                    "eventId": "24"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_iota__Sigma_mathcal_A___mathcal_L_",
+                    "enabled": "enabled",
+                    "name": "\\iota_\\Sigma\\mathcal{A}=\\mathcal{L}",
+                    "merged": true,
+                    "keywords": [
+                      "\\iota_\\Sigma\\mathcal{A}=\\mathcal{L}"
+                    ],
+                    "eventId": "25"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_iff",
+                    "enabled": "enabled",
+                    "name": "\\iff",
+                    "merged": true,
+                    "keywords": [
+                      "\\iff"
+                    ],
+                    "eventId": "26"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_mathcal_L_",
+                    "enabled": "enabled",
+                    "name": "\\mathcal{L}",
+                    "merged": true,
+                    "keywords": [
+                      "\\mathcal{L}"
+                    ],
+                    "eventId": "27"
+                  },
+                  {
+                    "type": "child",
+                    "name": "kan and stuff",
+                    "id": "kan_and_stuff",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "_mathbf_Auto___mathcal_L__",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Auto}(\\mathcal{L})",
+                        "merged": false,
+                        "keywords": [
+                          "\\mathbf{Auto}(\\mathcal{L})"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Theorem__Colcombet_Petrisan_2020___The_initial__resp__final__object_of",
+                        "enabled": "enabled",
+                        "name": "Theorem (Colcombet-Petrisan 2020): The initial (resp. final) object of",
+                        "merged": false,
+                        "keywords": [
+                          "Theorem (Colcombet-Petrisan 2020): The initial (resp. final) object of"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "corresponds_to_the_left__resp_right__Kan_extension_of_along____",
+                        "enabled": "enabled",
+                        "name": "corresponds to the left (resp.right) Kan extension of along . .",
+                        "merged": true,
+                        "keywords": [
+                          "corresponds to the left (resp.right) Kan extension of along . ."
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_L_",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{L}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{L}"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_iota__Sigma",
+                        "enabled": "enabled",
+                        "name": "\\iota_\\Sigma",
+                        "merged": true,
+                        "keywords": [
+                          "\\iota_\\Sigma"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_I___Sigma",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{I}_\\Sigma",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{I}_\\Sigma"
+                        ],
+                        "eventId": "7"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_I___Sigma2",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{O}_\\Sigma",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{O}_\\Sigma"
+                        ],
+                        "eventId": "8"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Ellipse_5",
+                        "enabled": "enabled",
+                        "name": "Ellipse 5",
+                        "merged": true,
+                        "keywords": [
+                          "Ellipse 5"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_29",
+                        "enabled": "enabled",
+                        "name": "Arrow 29",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 29"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_32",
+                        "enabled": "enabled",
+                        "name": "Arrow 32",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 32"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_Lan____iota__Sigma___mathcal_L__",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{Lan}_{\\iota_\\Sigma}(\\mathcal{L})",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathsf{Lan}_{\\iota_\\Sigma}(\\mathcal{L})"
+                        ],
+                        "eventId": "12"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_31",
+                        "enabled": "enabled",
+                        "name": "Arrow 31",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 31"
+                        ],
+                        "eventId": "13"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_L_2",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{L}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{L}"
+                        ],
+                        "eventId": "14"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_Ran____iota__Sigma___mathcal_L__",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{Ran}_{\\iota_\\Sigma}(\\mathcal{L})",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathsf{Ran}_{\\iota_\\Sigma}(\\mathcal{L})"
+                        ],
+                        "eventId": "15"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathcal_C_",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Set}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathbf{Set}"
+                        ],
+                        "eventId": "16"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_34",
+                        "enabled": "enabled",
+                        "name": "Arrow 34",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 34"
+                        ],
+                        "eventId": "17"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_iota__Sigma2",
+                        "enabled": "enabled",
+                        "name": "\\iota_\\Sigma",
+                        "merged": true,
+                        "keywords": [
+                          "\\iota_\\Sigma"
+                        ],
+                        "eventId": "19"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Great__Kan_extensions_can_be_computed_by_hand_",
+                        "enabled": "enabled",
+                        "name": "Great: Kan extensions can be computed by hand!",
+                        "merged": false,
+                        "keywords": [
+                          "Great: Kan extensions can be computed by hand!"
+                        ],
+                        "eventId": "27"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_Lan____iota__Sigma___mathcal_L__2",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{Lan}_{\\iota_\\Sigma}(\\mathcal{L})",
+                        "merged": false,
+                        "keywords": [
+                          "\\mathsf{Lan}_{\\iota_\\Sigma}(\\mathcal{L})"
+                        ],
+                        "eventId": "21"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathsf_Ran____iota__Sigma___mathcal_L__2",
+                        "enabled": "enabled",
+                        "name": "\\mathsf{Ran}_{\\iota_\\Sigma}(\\mathcal{L})",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathsf{Ran}_{\\iota_\\Sigma}(\\mathcal{L})"
+                        ],
+                        "eventId": "23"
+                      },
+                      {
+                        "type": "child",
+                        "name": "factorisation",
+                        "id": "factorisation",
+                        "enabled": "enabled",
+                        "merged": false,
+                        "children": [
+                          {
+                            "type": "show",
+                            "id": "state_space_",
+                            "enabled": "enabled",
+                            "name": "state space:",
+                            "merged": false,
+                            "keywords": [
+                              "state space:"
+                            ],
+                            "eventId": "20"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text7",
+                            "enabled": "enabled",
+                            "name": "\\Sigma^*",
+                            "merged": true,
+                            "keywords": [
+                              "\\Sigma^*"
+                            ],
+                            "eventId": "21"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text4",
+                            "enabled": "enabled",
+                            "name": "state space:",
+                            "merged": true,
+                            "keywords": [
+                              "state space:"
+                            ],
+                            "eventId": "22"
+                          },
+                          {
+                            "type": "show",
+                            "id": "2___Sigma___",
+                            "enabled": "enabled",
+                            "name": "2^{\\Sigma^*}",
+                            "merged": true,
+                            "keywords": [
+                              "2^{\\Sigma^*}"
+                            ],
+                            "eventId": "23"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text2",
+                            "enabled": "enabled",
+                            "name": "Myhill-Nerode: factorisation yields the minimal state space",
+                            "merged": false,
+                            "keywords": [
+                              "Myhill-Nerode: factorisation yields the minimal state space"
+                            ],
+                            "eventId": "18"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text3",
+                            "enabled": "enabled",
+                            "name": "\\textsf{res}:\\Sigma^*\\twoheadrightarrow Q_{\\text{min}}\\hookrightarrow 2^{\\Sigma^*}",
+                            "merged": true,
+                            "keywords": [
+                              "\\textsf{res}:\\Sigma^*\\twoheadrightarrow Q_{\\text{min}}\\hookrightarrow 2^{\\Sigma^*}"
+                            ],
+                            "eventId": "19"
+                          },
+                          {
+                            "type": "show",
+                            "id": "factorisation__pointwise_epimorphic_monomorphic_natural_transformations",
+                            "enabled": "enabled",
+                            "name": "Yes: factorise w.r.t. pointwise epimorphic/monomorphic natural transformations",
+                            "merged": false,
+                            "keywords": [
+                              "Yes: factorise w.r.t. pointwise epimorphic/monomorphic natural transformations"
+                            ],
+                            "eventId": "8"
+                          },
+                          {
+                            "type": "hide",
+                            "id": "Arrow_38",
+                            "enabled": "enabled",
+                            "name": "Arrow 38",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 38"
+                            ],
+                            "eventId": "1"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_35",
+                            "enabled": "enabled",
+                            "name": "Arrow 35",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 35"
+                            ],
+                            "eventId": "3"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Ellipse_5",
+                            "enabled": "enabled",
+                            "name": "Ellipse 5",
+                            "merged": true,
+                            "keywords": [
+                              "Ellipse 5"
+                            ],
+                            "eventId": "4"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_37",
+                            "enabled": "enabled",
+                            "name": "Arrow 37",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 37"
+                            ],
+                            "eventId": "5"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_36",
+                            "enabled": "enabled",
+                            "name": "Arrow 36",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 36"
+                            ],
+                            "eventId": "6"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text",
+                            "enabled": "enabled",
+                            "name": "\\mathsf{Min}(\\mathcal{L})",
+                            "merged": false,
+                            "keywords": [
+                              "\\mathsf{Min}(\\mathcal{L})"
+                            ],
+                            "eventId": "7"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Theorem__Colcombet_Petrisan_2020___The_initial__resp__final__object_of",
+                            "enabled": "enabled",
+                            "name": "Theorem (Colcombet-Petrisan 2020): The initial (resp. final) object of",
+                            "merged": true,
+                            "keywords": [
+                              "Theorem (Colcombet-Petrisan 2020): The initial (resp. final) object of"
+                            ],
+                            "eventId": "10"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Line_4",
+                            "enabled": "enabled",
+                            "name": "Line 4",
+                            "merged": true,
+                            "keywords": [
+                              "Line 4"
+                            ],
+                            "eventId": "11"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Line_5",
+                            "enabled": "enabled",
+                            "name": "Line 5",
+                            "merged": true,
+                            "keywords": [
+                              "Line 5"
+                            ],
+                            "eventId": "12"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text5",
+                            "enabled": "enabled",
+                            "name": "Replace surjective by epi, injective by mono... and apply to any category!",
+                            "merged": false,
+                            "keywords": [
+                              "Replace surjective by epi, injective by mono... and apply to any category!"
+                            ],
+                            "eventId": "16"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text6",
+                            "enabled": "enabled",
+                            "name": "*conditions apply",
+                            "merged": true,
+                            "keywords": [
+                              "*conditions apply"
+                            ],
+                            "eventId": "17"
+                          }
+                        ],
+                        "keywords": [
+                          "factorisation"
+                        ],
+                        "eventId": "20",
+                        "originalParams": {
+                          "Arrow_38": {
+                            "opacity": 1
+                          },
+                          "Arrow_35": {
+                            "opacity": 1
+                          },
+                          "Ellipse_5": {
+                            "opacity": 1
+                          },
+                          "Arrow_37": {
+                            "opacity": 1
+                          },
+                          "Arrow_36": {
+                            "opacity": 1
+                          },
+                          "Text": {
+                            "opacity": 1
+                          },
+                          "factorisation__pointwise_epimorphic_monomorphic_natural_transformations": {
+                            "opacity": 1
+                          },
+                          "Theorem__Colcombet_Petrisan_2020___The_initial__resp__final__object_of": {
+                            "opacity": 1
+                          },
+                          "Line_4": {
+                            "opacity": 1
+                          },
+                          "Line_5": {
+                            "opacity": 1
+                          },
+                          "Text5": {
+                            "opacity": 1
+                          },
+                          "Text6": {
+                            "opacity": 1
+                          },
+                          "Text2": {
+                            "opacity": 1
+                          },
+                          "Text3": {
+                            "opacity": 1
+                          },
+                          "state_space_": {
+                            "opacity": 1
+                          },
+                          "Text7": {
+                            "opacity": 1
+                          },
+                          "Text4": {
+                            "opacity": 1
+                          },
+                          "2___Sigma___": {
+                            "opacity": 1
+                          }
+                        }
+                      }
+                    ],
+                    "keywords": [
+                      "Example: minimisation of functorial automata",
+                      "Functorial automata can be arranged into a category (arrows: natural transformations)",
+                      "kan and stuff"
+                    ],
+                    "eventId": "28",
+                    "originalParams": {
+                      "_mathbf_Auto___mathcal_L__": {
+                        "opacity": 1
+                      },
+                      "Theorem__Colcombet_Petrisan_2020___The_initial__resp__final__object_of": {
+                        "opacity": 1
+                      },
+                      "corresponds_to_the_left__resp_right__Kan_extension_of_along____": {
+                        "opacity": 1
+                      },
+                      "_mathcal_L_": {
+                        "opacity": 1
+                      },
+                      "_iota__Sigma": {
+                        "opacity": 1
+                      },
+                      "_mathcal_I___Sigma": {
+                        "opacity": 1
+                      },
+                      "_mathcal_I___Sigma2": {
+                        "opacity": 1
+                      },
+                      "Ellipse_5": {
+                        "opacity": 1
+                      },
+                      "Arrow_29": {
+                        "opacity": 1
+                      },
+                      "Arrow_32": {
+                        "opacity": 1
+                      },
+                      "_mathsf_Lan____iota__Sigma___mathcal_L__": {
+                        "opacity": 1
+                      },
+                      "Arrow_31": {
+                        "opacity": 1
+                      },
+                      "_mathcal_L_2": {
+                        "opacity": 1
+                      },
+                      "_mathsf_Ran____iota__Sigma___mathcal_L__": {
+                        "opacity": 1
+                      },
+                      "_mathcal_C_": {
+                        "opacity": 1
+                      },
+                      "Arrow_34": {
+                        "opacity": 1
+                      },
+                      "_iota__Sigma2": {
+                        "opacity": 1
+                      },
+                      "_mathsf_Lan____iota__Sigma___mathcal_L__2": {
+                        "opacity": 1
+                      },
+                      "Arrow_35": {
+                        "opacity": 1
+                      },
+                      "_mathsf_Ran____iota__Sigma___mathcal_L__2": {
+                        "opacity": 1
+                      },
+                      "Great__Kan_extensions_can_be_computed_by_hand_": {
+                        "opacity": 1
+                      }
+                    }
+                  }
+                ],
+                "keywords": [
+                  "automata are functors, what about languages?",
+                  "minimisation"
+                ],
+                "eventId": "84",
+                "originalParams": {
+                  "so_are_languages_": {
+                    "opacity": 1
+                  },
+                  "_textsf_in_2": {
+                    "opacity": 1
+                  },
+                  "Arrow_28": {
+                    "opacity": 1
+                  },
+                  "__rhd__w__lhd___w_in_Sigma___": {
+                    "opacity": 1
+                  },
+                  "_textsf_out_2": {
+                    "opacity": 1
+                  },
+                  "_mathcal_I___Sigma2": {
+                    "opacity": 1
+                  },
+                  "Ellipse_5": {
+                    "opacity": 1
+                  },
+                  "Arrow_29": {
+                    "opacity": 1
+                  },
+                  "_iota__Sigma": {
+                    "opacity": 1
+                  },
+                  "Arrow_30": {
+                    "opacity": 1
+                  },
+                  "_mathcal_L___Sigma___rightarrow___bot__top__": {
+                    "opacity": 1
+                  },
+                  "_mathcal_A_2": {
+                    "opacity": 1
+                  },
+                  "recognises": {
+                    "opacity": 1
+                  },
+                  "_iota__Sigma_mathcal_A___mathcal_L_": {
+                    "opacity": 1
+                  },
+                  "_iff": {
+                    "opacity": 1
+                  },
+                  "_mathcal_L_": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "DFAs",
+              "(arrows = functions)",
+              "functorial prez"
+            ],
+            "eventId": "6",
+            "originalParams": {
+              "___cdot__": {
+                "opacity": 1
+              },
+              "___cdot__2": {
+                "opacity": 1
+              },
+              "_mathbb_K_": {
+                "opacity": 1
+              },
+              "S": {
+                "opacity": 1
+              },
+              "S3": {
+                "opacity": 1
+              },
+              "S2": {
+                "opacity": 1
+              },
+              "___bot__top__": {
+                "opacity": 1
+              },
+              "___cdot__3": {
+                "opacity": 1
+              },
+              "_mathbb_K_2": {
+                "opacity": 1
+              },
+              "Arrow_14": {
+                "x": -313,
+                "y": 103
+              },
+              "Arrow_16": {
+                "x": -313,
+                "y": 103
+              },
+              "Arrow_15": {
+                "x": -313,
+                "y": 103
+              },
+              "Arrow_17": {
+                "x": -313,
+                "y": 384,
+                "opacity": 1
+              },
+              "Arrow_19": {
+                "x": -313,
+                "y": 384,
+                "opacity": 1
+              },
+              "Arrow_18": {
+                "x": -313,
+                "y": 384,
+                "opacity": 1
+              },
+              "Arrow_20": {
+                "x": -313,
+                "y": 667,
+                "opacity": 1
+              },
+              "Arrow_22": {
+                "x": -313,
+                "y": 667,
+                "opacity": 1
+              },
+              "Arrow_21": {
+                "x": -313,
+                "y": 667,
+                "opacity": 1
+              },
+              "_textsf_in_": {
+                "opacity": 1
+              },
+              "_textsf_st_": {
+                "opacity": 1
+              },
+              "_textsf_out_": {
+                "opacity": 1
+              },
+              "_mathcal_I___Sigma": {
+                "opacity": 1
+              },
+              "Arrow_24": {
+                "opacity": 1
+              },
+              "Arrow_26": {
+                "opacity": 1
+              },
+              "S4": {
+                "opacity": 1
+              },
+              "Arrow_25": {
+                "opacity": 1
+              },
+              "X": {
+                "opacity": 1
+              },
+              "_mathcal_C_": {
+                "opacity": 1
+              },
+              "Arrow_23": {
+                "opacity": 1
+              },
+              "_mathcal_A_": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "___cdot__4": {
+                "opacity": 1
+              },
+              "___bot__top__2": {
+                "opacity": 1
+              },
+              "_mathbf_Set_": {
+                "opacity": 1
+              },
+              "Automata_are_functors_": {
+                "opacity": 1
+              },
+              "DFAs": {
+                "opacity": 1
+              },
+              "Weighted_automata": {
+                "opacity": 1
+              },
+              "DFAs2": {
+                "opacity": 1
+              },
+              "Apply_categorical_tools": {
+                "opacity": 1
+              },
+              "Arrow_27": {
+                "opacity": 1
+              },
+              "_arrows___functions_": {
+                "opacity": 1
+              },
+              "_arrows___relations_": {
+                "opacity": 1
+              },
+              "_arrows___linear_transformations_": {
+                "opacity": 1
+              },
+              "_delta_a__a_in_Sigma_": {
+                "opacity": 1
+              },
+              "_delta_a__a_in_Sigma_2": {
+                "opacity": 1
+              },
+              "_delta_a__a_in_Sigma_3": {
+                "opacity": 1
+              },
+              "_rhd": {
+                "opacity": 1
+              },
+              "a_in_Sigma": {
+                "opacity": 1
+              },
+              "_lhd": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Learning_in_topoi",
+            "enabled": "enabled",
+            "name": "Learning in topoi",
+            "merged": false,
+            "keywords": [
+              "Learning in topoi"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "child",
+            "name": "learning topoi",
+            "id": "learning_topoi",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "elements_of_a_Set",
+                "enabled": "enabled",
+                "name": "elements of a set",
+                "merged": false,
+                "keywords": [
+                  "elements of a set"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_39",
+                "enabled": "enabled",
+                "name": "Arrow 39",
+                "merged": true,
+                "keywords": [
+                  "Arrow 39"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "What_if_the_alphabet_is_not_a_plain_set_",
+                "enabled": "enabled",
+                "name": "What if the alphabet is not a plain set?",
+                "merged": false,
+                "keywords": [
+                  "What if the alphabet is not a plain set?"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "child",
+                "name": "nominal",
+                "id": "nominal",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Nominal_automata__infinite_state_spaces_and_infinite_alphabets",
+                    "enabled": "enabled",
+                    "name": "Nominal automata: infinite state spaces and infinite alphabets",
+                    "merged": false,
+                    "keywords": [
+                      "Nominal automata: infinite state spaces and infinite alphabets"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Algorithms_over_infinite_structures___",
+                    "enabled": "enabled",
+                    "name": "Algorithms over infinite structures????",
+                    "merged": false,
+                    "keywords": [
+                      "Algorithms over infinite structures????"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Shift_from__classical__finiteness_to_a_more_lenient_notion_",
+                    "enabled": "enabled",
+                    "name": "Shift from “classical” finiteness to a more lenient notion:",
+                    "merged": false,
+                    "keywords": [
+                      "Shift from “classical” finiteness to a more lenient notion:"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "X",
+                    "enabled": "enabled",
+                    "name": "X",
+                    "merged": false,
+                    "keywords": [
+                      "X"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_44",
+                    "enabled": "enabled",
+                    "name": "Arrow 44",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 44"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "infinite_set",
+                    "enabled": "enabled",
+                    "name": "infinite set",
+                    "merged": true,
+                    "keywords": [
+                      "infinite set"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "orbit_finite_group_action",
+                    "enabled": "enabled",
+                    "name": "orbit-finite group action",
+                    "merged": false,
+                    "keywords": [
+                      "orbit-finite group action"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "X_times_mathfrak_S___mathbb_D___to_phantom___X",
+                    "enabled": "enabled",
+                    "name": "X\\times\\mathfrak{S}(\\mathbb{D})\\to\\phantom{}",
+                    "merged": true,
+                    "keywords": [
+                      "X\\times\\mathfrak{S}(\\mathbb{D})\\to\\phantom{}"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_45",
+                    "enabled": "enabled",
+                    "name": "Arrow 45",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 45"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "orbit_finiteness",
+                    "enabled": "enabled",
+                    "name": "orbit-finiteness",
+                    "merged": true,
+                    "keywords": [
+                      "orbit-finiteness"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "countable__data_set_",
+                    "enabled": "enabled",
+                    "name": "countable “data set”",
+                    "merged": true,
+                    "keywords": [
+                      "countable “data set”"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_46",
+                    "enabled": "enabled",
+                    "name": "Arrow 46",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 46"
+                    ],
+                    "eventId": "15"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_exists_phantom__x_1__ldots_x_n___X__bigcup__i_1__n_text_orb__x_i_",
+                    "enabled": "enabled",
+                    "name": "\\exists\\phantom{}x_1,\\ldots,x_n,\\,X=\\bigcup_{i=1}^n\\text{orb}(x_i)",
+                    "merged": false,
+                    "keywords": [
+                      "\\exists\\phantom{}x_1,\\ldots,x_n,\\,X=\\bigcup_{i=1}^n\\text{orb}(x_i)"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "child",
+                    "name": "nominal def",
+                    "id": "nominal_def",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "_delta_subseteq_phantom__Q__Q_times_Sigma_",
+                        "enabled": "enabled",
+                        "name": "\\delta\\subseteq\\phantom{}Q^{Q\\times\\Sigma}",
+                        "merged": false,
+                        "keywords": [
+                          "\\delta\\subseteq\\phantom{}Q^{Q\\times\\Sigma}"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Solution__finitely_supported____nominal__actions",
+                        "enabled": "enabled",
+                        "name": "Solution: finitely supported (= nominal) actions",
+                        "merged": false,
+                        "keywords": [
+                          "Solution: finitely supported (= nominal) actions"
+                        ],
+                        "eventId": "6"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_forall_phantom___x_in_phantom___X___exists___mathbb_S__subset_mathbb_D____sigma___mid__mathbb_S____text_id__implies__sigma_x__x",
+                        "enabled": "enabled",
+                        "name": "\\forall\\phantom{} x\\in\\phantom{} X\\;\\exists\\,\\mathbb{S}\\subset\\mathbb{D}, \\sigma_{\\mid \\mathbb{S}}=\\text{id}\\implies \\sigma(x)=x",
+                        "merged": true,
+                        "keywords": [
+                          "\\forall\\phantom{} x\\in\\phantom{} X\\;\\exists\\,\\mathbb{S}\\subset\\mathbb{D}, \\sigma_{\\mid \\mathbb{S}}=\\text{id}\\implies \\sigma(x)=x"
+                        ],
+                        "eventId": "7"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_",
+                        "enabled": "enabled",
+                        "name": "{",
+                        "merged": true,
+                        "keywords": [
+                          "{"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "finite",
+                        "enabled": "enabled",
+                        "name": "finite",
+                        "merged": true,
+                        "keywords": [
+                          "finite"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Rectangle_4",
+                        "enabled": "enabled",
+                        "name": "Rectangle 4",
+                        "merged": false,
+                        "keywords": [
+                          "Rectangle 4"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Example_",
+                        "enabled": "enabled",
+                        "name": "Example:",
+                        "merged": true,
+                        "keywords": [
+                          "Example:"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Sigma___times_mathfrak_S___Sigma__to_Sigma__",
+                        "enabled": "enabled",
+                        "name": "\\mathbb{D}^*\\times\\mathfrak{S}(\\mathbb{D})\\to\\mathbb{D}^*",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathbb{D}^*\\times\\mathfrak{S}(\\mathbb{D})\\to\\mathbb{D}^*"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_text_supp__a_1_ldots_a_n____a_1__ldots_a_n__",
+                        "enabled": "enabled",
+                        "name": "\\text{supp}(a_1\\ldots a_n)=\\{a_1,\\ldots,a_n\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\text{supp}(a_1\\ldots a_n)=\\{a_1,\\ldots,a_n\\}"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Automata_over_orbit_finite_nominal_sets_",
+                        "enabled": "enabled",
+                        "name": "Automata over orbit-finite nominal sets!",
+                        "merged": false,
+                        "keywords": [
+                          "Automata over orbit-finite nominal sets!"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "child",
+                        "name": "exemple nominal",
+                        "id": "exemple_nominal",
+                        "enabled": "enabled",
+                        "merged": false,
+                        "children": [
+                          {
+                            "type": "show",
+                            "id": "_begin_cases___Sigma_times_mathfrak_S___Sigma__to_Sigma__text_orbit_finite_nominal_alphabet____Q___q_i___cup__q_a_a_in_Sigma___cup__q_f____text_orbit_finite_nominal_set_of_states____sigma_q_a__q___sigma_a_______end_cases_",
+                            "enabled": "enabled",
+                            "name": "\\begin{cases}\n\\Sigma\\times\\mathfrak{S}(\\Sigma)\\to\\Sigma&\\text{orbit-finite nominal alphabet}\\\\\nQ=\\{q_i\\}\\cup\\{q_a,a\\in\\Sigma\\}\\cup\\{q_f\\}&\\text{orbit-finite nominal set of states } (\\sigma(q_a)=q_{\\sigma(a)})\\\\\n\\end{cases}",
+                            "merged": false,
+                            "keywords": [
+                              "\\begin{cases}\n\\Sigma\\times\\mathfrak{S}(\\Sigma)\\to\\Sigma&\\text{orbit-finite nominal alphabet}\\\\\nQ=\\{q_i\\}\\cup\\{q_a,a\\in\\Sigma\\}\\cup\\{q_f\\}&\\text{orbit-finite nominal set of states } (\\sigma(q_a)=q_{\\sigma(a)})\\\\\n\\end{cases}"
+                            ],
+                            "eventId": "3"
+                          },
+                          {
+                            "type": "show",
+                            "id": "A_word_is_accepted_if_and_only_if",
+                            "enabled": "enabled",
+                            "name": "A word is accepted if and only if",
+                            "merged": false,
+                            "keywords": [
+                              "A word is accepted if and only if"
+                            ],
+                            "eventId": "1"
+                          },
+                          {
+                            "type": "show",
+                            "id": "some_letter_occurs_twice",
+                            "enabled": "enabled",
+                            "name": "some letter occurs twice",
+                            "merged": false,
+                            "keywords": [
+                              "some letter occurs twice"
+                            ],
+                            "eventId": "2"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_practical_application__XML_parsign_for_example_",
+                            "enabled": "enabled",
+                            "name": "practical application: XML parsing for example",
+                            "merged": false,
+                            "keywords": [
+                              "practical application: XML parsing for example"
+                            ],
+                            "eventId": "4"
+                          }
+                        ],
+                        "keywords": [
+                          "exemple nominal"
+                        ],
+                        "eventId": "8",
+                        "originalParams": {
+                          "A_word_is_accepted_if_and_only_if": {
+                            "opacity": 1
+                          },
+                          "some_letter_occurs_twice": {
+                            "opacity": 1
+                          },
+                          "_begin_cases___Sigma_times_mathfrak_S___Sigma__to_Sigma__text_orbit_finite_nominal_alphabet____Q___q_i___cup__q_a_a_in_Sigma___cup__q_f____text_orbit_finite_nominal_set_of_states____sigma_q_a__q___sigma_a_______end_cases_": {
+                            "opacity": 1
+                          },
+                          "_practical_application__XML_parsign_for_example_": {
+                            "opacity": 1
+                          }
+                        }
+                      }
+                    ],
+                    "keywords": [
+                      "Problem: orbit-finite sets are not preserved under products, exponentials,...",
+                      "nominal def"
+                    ],
+                    "eventId": "16",
+                    "originalParams": {
+                      "Rectangle_4": {
+                        "opacity": 1
+                      },
+                      "Example_": {
+                        "opacity": 1
+                      },
+                      "_Sigma___times_mathfrak_S___Sigma__to_Sigma__": {
+                        "opacity": 1
+                      },
+                      "_text_supp__a_1_ldots_a_n____a_1__ldots_a_n__": {
+                        "opacity": 1
+                      },
+                      "_delta_subseteq_phantom__Q__Q_times_Sigma_": {
+                        "opacity": 1
+                      },
+                      "Solution__finitely_supported____nominal__actions": {
+                        "opacity": 1
+                      },
+                      "_forall_phantom___x_in_phantom___X___exists___mathbb_S__subset_mathbb_D____sigma___mid__mathbb_S____text_id__implies__sigma_x__x": {
+                        "opacity": 1
+                      },
+                      "Automata_over_orbit_finite_nominal_sets_": {
+                        "opacity": 1
+                      },
+                      "_": {
+                        "opacity": 1
+                      },
+                      "finite": {
+                        "opacity": 1
+                      }
+                    }
+                  }
+                ],
+                "keywords": [
+                  "An example: nominal automata",
+                  "DFA: finite state spaces and finite alphabets",
+                  "nominal"
+                ],
+                "eventId": "6",
+                "originalParams": {
+                  "X": {
+                    "opacity": 1
+                  },
+                  "Arrow_44": {
+                    "opacity": 1
+                  },
+                  "infinite_set": {
+                    "opacity": 1
+                  },
+                  "orbit_finite_group_action": {
+                    "opacity": 1
+                  },
+                  "X_times_mathfrak_S___mathbb_D___to_phantom___X": {
+                    "opacity": 1
+                  },
+                  "Arrow_45": {
+                    "opacity": 1
+                  },
+                  "Nominal_automata__infinite_state_spaces_and_infinite_alphabets": {
+                    "opacity": 1
+                  },
+                  "Algorithms_over_infinite_structures___": {
+                    "opacity": 1
+                  },
+                  "Shift_from__classical__finiteness_to_a_more_lenient_notion_": {
+                    "opacity": 1
+                  },
+                  "orbit_finiteness": {
+                    "opacity": 1
+                  },
+                  "countable__data_set_": {
+                    "opacity": 1
+                  },
+                  "Arrow_46": {
+                    "opacity": 1
+                  },
+                  "_exists_phantom__x_1__ldots_x_n___X__bigcup__i_1__n_text_orb__x_i_": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "show",
+                "id": "Enriched_CT_",
+                "enabled": "enabled",
+                "name": "Enriched CT!",
+                "merged": false,
+                "keywords": [
+                  "Enriched CT!"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_47",
+                "enabled": "enabled",
+                "name": "Arrow 47",
+                "merged": true,
+                "keywords": [
+                  "Arrow 47"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "hide",
+                "id": "_rhd",
+                "enabled": "enabled",
+                "name": "\\rhd",
+                "merged": false,
+                "keywords": [
+                  "\\rhd"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "hide",
+                "id": "a_in_Sigma",
+                "enabled": "enabled",
+                "name": "a\\in\\Sigma",
+                "merged": true,
+                "keywords": [
+                  "a\\in\\Sigma"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "hide",
+                "id": "_lhd",
+                "enabled": "enabled",
+                "name": "\\lhd",
+                "merged": true,
+                "keywords": [
+                  "\\lhd"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "hide",
+                "id": "elements_of_a_Set",
+                "enabled": "enabled",
+                "name": "elements of a set",
+                "merged": true,
+                "keywords": [
+                  "elements of a set"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "object_of_a_topos",
+                "enabled": "enabled",
+                "name": "object of a topos",
+                "merged": true,
+                "keywords": [
+                  "object of a topos"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "_Sigma",
+                "enabled": "enabled",
+                "name": "\\Sigma",
+                "merged": true,
+                "keywords": [
+                  "\\Sigma"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "__",
+                "enabled": "enabled",
+                "name": "\\varepsilon",
+                "merged": true,
+                "keywords": [
+                  "\\varepsilon"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "__2",
+                "enabled": "enabled",
+                "name": "\\varepsilon",
+                "merged": true,
+                "keywords": [
+                  "\\varepsilon"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "what_does_stand_for__",
+                "enabled": "enabled",
+                "name": "what does stand for??",
+                "merged": false,
+                "keywords": [
+                  "what does stand for??"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "what_is_composition__",
+                "enabled": "enabled",
+                "name": "what is composition??",
+                "merged": true,
+                "keywords": [
+                  "what is composition??"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "_varepsilon",
+                "enabled": "enabled",
+                "name": "\\varepsilon",
+                "merged": true,
+                "keywords": [
+                  "\\varepsilon"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "What_about_learning___",
+                "enabled": "enabled",
+                "name": "What about learning???",
+                "merged": false,
+                "keywords": [
+                  "What about learning???"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "child",
+                "name": "toposes",
+                "id": "toposes",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "f_x_cdot_sigma__f_x__cdot_sigma",
+                    "enabled": "enabled",
+                    "name": "f(x\\cdot\\sigma)=f(x)\\cdot\\sigma",
+                    "merged": false,
+                    "keywords": [
+                      "f(x\\cdot\\sigma)=f(x)\\cdot\\sigma"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "category",
+                    "enabled": "enabled",
+                    "name": "category",
+                    "merged": false,
+                    "keywords": [
+                      "category"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "show",
+                    "id": "topos",
+                    "enabled": "enabled",
+                    "name": "topos",
+                    "merged": true,
+                    "keywords": [
+                      "topos"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "What_is_a_topos_",
+                    "enabled": "enabled",
+                    "name": "What is a topos?",
+                    "merged": false,
+                    "keywords": [
+                      "What is a topos?"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Why_do_we_care_",
+                    "enabled": "enabled",
+                    "name": "Why do we care?",
+                    "merged": true,
+                    "keywords": [
+                      "Why do we care?"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "child",
+                    "name": "topos def",
+                    "id": "topos_def",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "finite__co_limits_cartesian_closed_subobject_classifier",
+                        "enabled": "enabled",
+                        "name": "finite (co)limits cartesian closed subobject classifier",
+                        "merged": false,
+                        "keywords": [
+                          "finite (co)limits cartesian closed subobject classifier"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_X_times_phantom___Y_to_phantom___Z_cong_phantom__X_to_phantom__Z_Y_",
+                        "enabled": "enabled",
+                        "name": "(X\\times\\phantom{} Y\\to\\phantom{} Z\\cong\\phantom{}X\\to\\phantom{}Z^Y)",
+                        "merged": false,
+                        "keywords": [
+                          "(X\\times\\phantom{} Y\\to\\phantom{} Z\\cong\\phantom{}X\\to\\phantom{}Z^Y)"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Omega",
+                        "enabled": "enabled",
+                        "name": "\\Omega",
+                        "merged": false,
+                        "keywords": [
+                          "\\Omega"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Rectangle_5",
+                        "enabled": "enabled",
+                        "name": "Rectangle 5",
+                        "merged": true,
+                        "keywords": [
+                          "Rectangle 5"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_51",
+                        "enabled": "enabled",
+                        "name": "Arrow 51",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 51"
+                        ],
+                        "eventId": "38"
+                      },
+                      {
+                        "type": "show",
+                        "id": "__",
+                        "enabled": "enabled",
+                        "name": "𝟙",
+                        "merged": false,
+                        "keywords": [
+                          "𝟙"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_422",
+                        "enabled": "enabled",
+                        "name": "Arrow 42",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 42"
+                        ],
+                        "eventId": "21"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_43",
+                        "enabled": "enabled",
+                        "name": "Arrow 43",
+                        "merged": false,
+                        "keywords": [
+                          "Arrow 43"
+                        ],
+                        "eventId": "8"
+                      },
+                      {
+                        "type": "show",
+                        "id": "X",
+                        "enabled": "enabled",
+                        "name": "X",
+                        "merged": true,
+                        "keywords": [
+                          "X"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Y",
+                        "enabled": "enabled",
+                        "name": "Y",
+                        "merged": true,
+                        "keywords": [
+                          "Y"
+                        ],
+                        "eventId": "18"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Ellipse_52",
+                        "enabled": "enabled",
+                        "name": "Ellipse 5",
+                        "merged": true,
+                        "keywords": [
+                          "Ellipse 5"
+                        ],
+                        "eventId": "22"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Line_7",
+                        "enabled": "enabled",
+                        "name": "Line 7",
+                        "merged": false,
+                        "keywords": [
+                          "Line 7"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Line_8",
+                        "enabled": "enabled",
+                        "name": "Line 8",
+                        "merged": true,
+                        "keywords": [
+                          "Line 8"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_chi_Y",
+                        "enabled": "enabled",
+                        "name": "\\chi_Y",
+                        "merged": true,
+                        "keywords": [
+                          "\\chi_Y"
+                        ],
+                        "eventId": "12"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_41",
+                        "enabled": "enabled",
+                        "name": "Arrow 41",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 41"
+                        ],
+                        "eventId": "14"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Arrow_402",
+                        "enabled": "enabled",
+                        "name": "Arrow 40",
+                        "merged": true,
+                        "keywords": [
+                          "Arrow 40"
+                        ],
+                        "eventId": "23"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Line_11",
+                        "enabled": "enabled",
+                        "name": "Line 11",
+                        "merged": false,
+                        "keywords": [
+                          "Line 11"
+                        ],
+                        "eventId": "32"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Example_",
+                        "enabled": "enabled",
+                        "name": "Example:",
+                        "merged": false,
+                        "keywords": [
+                          "Example:"
+                        ],
+                        "eventId": "33"
+                      },
+                      {
+                        "type": "show",
+                        "id": "G_sets__presheaf_category_",
+                        "enabled": "enabled",
+                        "name": "G-sets (presheaf category)",
+                        "merged": false,
+                        "keywords": [
+                          "G-sets (presheaf category)"
+                        ],
+                        "eventId": "34"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_G___text_op____mathbf_Set__",
+                        "enabled": "enabled",
+                        "name": "[G^{\\text{op}},\\mathbf{Set}]",
+                        "merged": true,
+                        "keywords": [
+                          "[G^{\\text{op}},\\mathbf{Set}]"
+                        ],
+                        "eventId": "35"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Nominal_sets",
+                        "enabled": "enabled",
+                        "name": "Nominal sets",
+                        "merged": false,
+                        "keywords": [
+                          "Nominal sets"
+                        ],
+                        "eventId": "36"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_mathbf_Nom__G____G__text_op___mathbf_Set__",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Nom}(G)⊂ [G^\\text{op},\\mathbf{Set}]",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathbf{Nom}(G)⊂ [G^\\text{op},\\mathbf{Set}]"
+                        ],
+                        "eventId": "37"
+                      },
+                      {
+                        "type": "child",
+                        "name": "free mon in top",
+                        "id": "free_mon_in_top",
+                        "enabled": "enabled",
+                        "merged": false,
+                        "children": [
+                          {
+                            "type": "show",
+                            "id": "We_consider_particular_toposes_",
+                            "enabled": "enabled",
+                            "name": "We consider particular toposes:",
+                            "merged": false,
+                            "keywords": [
+                              "We consider particular toposes:"
+                            ],
+                            "eventId": "1"
+                          },
+                          {
+                            "type": "show",
+                            "id": "free_monoids_countable__co_products",
+                            "enabled": "enabled",
+                            "name": "free monoids countable (co)products",
+                            "merged": true,
+                            "keywords": [
+                              "free monoids countable (co)products"
+                            ],
+                            "eventId": "2"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text",
+                            "enabled": "enabled",
+                            "name": "“monoid of words over some alphabet (= object)”",
+                            "merged": false,
+                            "keywords": [
+                              "“monoid of words over some alphabet (= object)”"
+                            ],
+                            "eventId": "3"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_49",
+                            "enabled": "enabled",
+                            "name": "Arrow 49",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 49"
+                            ],
+                            "eventId": "4"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Rectangle_6",
+                            "enabled": "enabled",
+                            "name": "Rectangle 6",
+                            "merged": true,
+                            "keywords": [
+                              "Rectangle 6"
+                            ],
+                            "eventId": "5"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text2",
+                            "enabled": "enabled",
+                            "name": "\\Sigma^*=\\sum_{k=0}^{\\infty} \\Sigma^k",
+                            "merged": true,
+                            "keywords": [
+                              "\\Sigma^*=\\sum_{k=0}^{\\infty} \\Sigma^k"
+                            ],
+                            "eventId": "6"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_50",
+                            "enabled": "enabled",
+                            "name": "Arrow 50",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 50"
+                            ],
+                            "eventId": "7"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Text3",
+                            "enabled": "enabled",
+                            "name": "“words of length k”",
+                            "merged": true,
+                            "keywords": [
+                              "“words of length k”"
+                            ],
+                            "eventId": "8"
+                          },
+                          {
+                            "type": "show",
+                            "id": "composition__monoidal_product",
+                            "enabled": "enabled",
+                            "name": "composition: monoidal product",
+                            "merged": false,
+                            "keywords": [
+                              "composition: monoidal product"
+                            ],
+                            "eventId": "22"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_varepsilon",
+                            "enabled": "enabled",
+                            "name": "\\varepsilon",
+                            "merged": true,
+                            "keywords": [
+                              "\\varepsilon"
+                            ],
+                            "eventId": "23"
+                          },
+                          {
+                            "type": "show",
+                            "id": "__unit_of",
+                            "enabled": "enabled",
+                            "name": ": unit of",
+                            "merged": true,
+                            "keywords": [
+                              ": unit of"
+                            ],
+                            "eventId": "24"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_Sigma__",
+                            "enabled": "enabled",
+                            "name": "\\Sigma^*",
+                            "merged": true,
+                            "keywords": [
+                              "\\Sigma^*"
+                            ],
+                            "eventId": "25"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_textsf_in_",
+                            "enabled": "enabled",
+                            "name": "\\textsf{in}",
+                            "merged": true,
+                            "keywords": [
+                              "\\textsf{in}"
+                            ],
+                            "eventId": "13"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_17",
+                            "enabled": "enabled",
+                            "name": "Arrow 17",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 17"
+                            ],
+                            "eventId": "14"
+                          },
+                          {
+                            "type": "show",
+                            "id": "__",
+                            "enabled": "enabled",
+                            "name": "\\varepsilon",
+                            "merged": true,
+                            "keywords": [
+                              "\\varepsilon"
+                            ],
+                            "eventId": "15"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_19",
+                            "enabled": "enabled",
+                            "name": "Arrow 19",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 19"
+                            ],
+                            "eventId": "16"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_textsf_st_",
+                            "enabled": "enabled",
+                            "name": "\\textsf{st}",
+                            "merged": true,
+                            "keywords": [
+                              "\\textsf{st}"
+                            ],
+                            "eventId": "17"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_Sigma",
+                            "enabled": "enabled",
+                            "name": "\\Sigma",
+                            "merged": true,
+                            "keywords": [
+                              "\\Sigma"
+                            ],
+                            "eventId": "18"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_18",
+                            "enabled": "enabled",
+                            "name": "Arrow 18",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 18"
+                            ],
+                            "eventId": "19"
+                          },
+                          {
+                            "type": "show",
+                            "id": "__2",
+                            "enabled": "enabled",
+                            "name": "\\varepsilon",
+                            "merged": true,
+                            "keywords": [
+                              "\\varepsilon"
+                            ],
+                            "eventId": "20"
+                          },
+                          {
+                            "type": "show",
+                            "id": "_textsf_out_",
+                            "enabled": "enabled",
+                            "name": "\\textsf{out}",
+                            "merged": true,
+                            "keywords": [
+                              "\\textsf{out}"
+                            ],
+                            "eventId": "21"
+                          },
+                          {
+                            "type": "show",
+                            "id": "atomicity",
+                            "enabled": "enabled",
+                            "name": "atomicity",
+                            "merged": false,
+                            "keywords": [
+                              "atomicity"
+                            ],
+                            "eventId": "9"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Arrow_52",
+                            "enabled": "enabled",
+                            "name": "Arrow 52",
+                            "merged": true,
+                            "keywords": [
+                              "Arrow 52"
+                            ],
+                            "eventId": "10"
+                          },
+                          {
+                            "type": "show",
+                            "id": "generalises_finiteness__orbit_finiteness____",
+                            "enabled": "enabled",
+                            "name": "generalises finiteness, orbit-finiteness,...",
+                            "merged": true,
+                            "keywords": [
+                              "generalises finiteness, orbit-finiteness,..."
+                            ],
+                            "eventId": "11"
+                          },
+                          {
+                            "type": "show",
+                            "id": "Nominal_sets_meet_all_these_requirements",
+                            "enabled": "enabled",
+                            "name": "Nominal sets meet all these requirements",
+                            "merged": false,
+                            "keywords": [
+                              "Nominal sets meet all these requirements"
+                            ],
+                            "eventId": "12"
+                          }
+                        ],
+                        "keywords": [
+                          "Is this environment suitable for studying languages?",
+                          "free mon in top"
+                        ],
+                        "eventId": "30",
+                        "originalParams": {
+                          "We_consider_particular_toposes_": {
+                            "opacity": 1
+                          },
+                          "free_monoids_countable__co_products": {
+                            "opacity": 1
+                          },
+                          "Text": {
+                            "opacity": 1
+                          },
+                          "Arrow_49": {
+                            "opacity": 1
+                          },
+                          "Rectangle_6": {
+                            "opacity": 1
+                          },
+                          "Text2": {
+                            "opacity": 1
+                          },
+                          "Arrow_50": {
+                            "opacity": 1
+                          },
+                          "Text3": {
+                            "opacity": 1
+                          },
+                          "atomicity": {
+                            "opacity": 1
+                          },
+                          "Arrow_52": {
+                            "opacity": 1
+                          },
+                          "generalises_finiteness__orbit_finiteness____": {
+                            "opacity": 1
+                          },
+                          "Nominal_sets_meet_all_these_requirements": {
+                            "opacity": 1
+                          },
+                          "_textsf_in_": {
+                            "opacity": 1
+                          },
+                          "Arrow_17": {
+                            "opacity": 1
+                          },
+                          "__": {
+                            "opacity": 1
+                          },
+                          "Arrow_19": {
+                            "opacity": 1
+                          },
+                          "_textsf_st_": {
+                            "opacity": 1
+                          },
+                          "_Sigma": {
+                            "opacity": 1
+                          },
+                          "Arrow_18": {
+                            "opacity": 1
+                          },
+                          "__2": {
+                            "opacity": 1
+                          },
+                          "_textsf_out_": {
+                            "opacity": 1
+                          },
+                          "composition__monoidal_product": {
+                            "opacity": 1
+                          },
+                          "_varepsilon": {
+                            "opacity": 1
+                          },
+                          "__unit_of": {
+                            "opacity": 1
+                          },
+                          "_Sigma__": {
+                            "opacity": 1
+                          }
+                        }
+                      }
+                    ],
+                    "keywords": [
+                      "A topos “looks and behaves like “",
+                      "topos def"
+                    ],
+                    "eventId": "1",
+                    "originalParams": {
+                      "finite__co_limits_cartesian_closed_subobject_classifier": {
+                        "opacity": 1
+                      },
+                      "_X_times_phantom___Y_to_phantom___Z_cong_phantom__X_to_phantom__Z_Y_": {
+                        "opacity": 1
+                      },
+                      "_Omega": {
+                        "opacity": 1
+                      },
+                      "Rectangle_5": {
+                        "opacity": 1
+                      },
+                      "__": {
+                        "opacity": 1
+                      },
+                      "Arrow_43": {
+                        "opacity": 1
+                      },
+                      "X": {
+                        "opacity": 1
+                      },
+                      "Line_7": {
+                        "opacity": 1
+                      },
+                      "Line_8": {
+                        "opacity": 1
+                      },
+                      "_chi_Y": {
+                        "opacity": 1
+                      },
+                      "Arrow_41": {
+                        "opacity": 1
+                      },
+                      "Y": {
+                        "opacity": 1
+                      },
+                      "Arrow_422": {
+                        "opacity": 1
+                      },
+                      "Ellipse_52": {
+                        "opacity": 1
+                      },
+                      "Arrow_402": {
+                        "opacity": 1
+                      },
+                      "Line_11": {
+                        "opacity": 1
+                      },
+                      "Example_": {
+                        "opacity": 1
+                      },
+                      "G_sets__presheaf_category_": {
+                        "opacity": 1
+                      },
+                      "_G___text_op____mathbf_Set__": {
+                        "opacity": 1
+                      },
+                      "Nominal_sets": {
+                        "opacity": 1
+                      },
+                      "_mathbf_Nom__G____G__text_op___mathbf_Set__": {
+                        "opacity": 1
+                      },
+                      "Arrow_51": {
+                        "opacity": 1
+                      }
+                    }
+                  },
+                  {
+                    "type": "child",
+                    "name": "functorial in topos",
+                    "id": "functorial_in_topos",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [
+                      {
+                        "type": "show",
+                        "id": "initial_object",
+                        "enabled": "enabled",
+                        "name": "initial object",
+                        "merged": false,
+                        "keywords": [
+                          "initial object"
+                        ],
+                        "eventId": "3"
+                      },
+                      {
+                        "type": "show",
+                        "id": "subobject_classifier",
+                        "enabled": "enabled",
+                        "name": "subobject classifier",
+                        "merged": true,
+                        "keywords": [
+                          "subobject classifier"
+                        ],
+                        "eventId": "4"
+                      },
+                      {
+                        "type": "hide",
+                        "id": "_mathbf_Set_",
+                        "enabled": "enabled",
+                        "name": "\\mathbf{Set}",
+                        "merged": false,
+                        "keywords": [
+                          "\\mathbf{Set}"
+                        ],
+                        "eventId": "7"
+                      },
+                      {
+                        "type": "hide",
+                        "id": "___cdot__4",
+                        "enabled": "enabled",
+                        "name": "\\{\\cdot\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\{\\cdot\\}"
+                        ],
+                        "eventId": "5"
+                      },
+                      {
+                        "type": "hide",
+                        "id": "___bot__top__2",
+                        "enabled": "enabled",
+                        "name": "\\{\\bot,\\top\\}",
+                        "merged": true,
+                        "keywords": [
+                          "\\{\\bot,\\top\\}"
+                        ],
+                        "eventId": "1"
+                      },
+                      {
+                        "type": "show",
+                        "id": "_Omega",
+                        "enabled": "enabled",
+                        "name": "\\Omega",
+                        "merged": true,
+                        "keywords": [
+                          "\\Omega"
+                        ],
+                        "eventId": "2"
+                      },
+                      {
+                        "type": "show",
+                        "id": "__",
+                        "enabled": "enabled",
+                        "name": "𝟙",
+                        "merged": true,
+                        "keywords": [
+                          "𝟙"
+                        ],
+                        "eventId": "6"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Text",
+                        "enabled": "enabled",
+                        "name": "\\mathcal{T}",
+                        "merged": true,
+                        "keywords": [
+                          "\\mathcal{T}"
+                        ],
+                        "eventId": "8"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Theorem__Iwaniack__2023___minimisation_w_r_t__epi_mono_factorisation_always_works_",
+                        "enabled": "enabled",
+                        "name": "Theorem (Iwaniack, 2023): minimisation w.r.t. epi-mono factorisation always works!",
+                        "merged": false,
+                        "keywords": [
+                          "Theorem (Iwaniack, 2023): minimisation w.r.t. epi-mono factorisation always works!"
+                        ],
+                        "eventId": "9"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Line_13",
+                        "enabled": "enabled",
+                        "name": "Line 13",
+                        "merged": true,
+                        "keywords": [
+                          "Line 13"
+                        ],
+                        "eventId": "10"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Line_12",
+                        "enabled": "enabled",
+                        "name": "Line 12",
+                        "merged": true,
+                        "keywords": [
+                          "Line 12"
+                        ],
+                        "eventId": "11"
+                      },
+                      {
+                        "type": "show",
+                        "id": "__Myhill_Nerode__",
+                        "enabled": "enabled",
+                        "name": "(+Myhill-Nerode!)",
+                        "merged": true,
+                        "keywords": [
+                          "(+Myhill-Nerode!)"
+                        ],
+                        "eventId": "13"
+                      },
+                      {
+                        "type": "show",
+                        "id": "Learning_can_also_be_adapted_to_this_setting__",
+                        "enabled": "enabled",
+                        "name": "Learning can also be adapted to this setting!!",
+                        "merged": false,
+                        "keywords": [
+                          "Learning can also be adapted to this setting!!"
+                        ],
+                        "eventId": "12"
+                      }
+                    ],
+                    "keywords": [
+                      "functorial in topos"
+                    ],
+                    "eventId": "2",
+                    "originalParams": {
+                      "___bot__top__2": {
+                        "opacity": 1
+                      },
+                      "_Omega": {
+                        "opacity": 1
+                      },
+                      "initial_object": {
+                        "opacity": 1
+                      },
+                      "subobject_classifier": {
+                        "opacity": 1
+                      },
+                      "___cdot__4": {
+                        "opacity": 1
+                      },
+                      "__": {
+                        "opacity": 1
+                      },
+                      "_mathbf_Set_": {
+                        "opacity": 1
+                      },
+                      "Text": {
+                        "opacity": 1
+                      },
+                      "Theorem__Iwaniack__2023___minimisation_w_r_t__epi_mono_factorisation_always_works_": {
+                        "opacity": 1
+                      },
+                      "Line_13": {
+                        "opacity": 1
+                      },
+                      "Line_12": {
+                        "opacity": 1
+                      },
+                      "Learning_can_also_be_adapted_to_this_setting__": {
+                        "opacity": 1
+                      },
+                      "__Myhill_Nerode__": {
+                        "opacity": 1
+                      }
+                    }
+                  }
+                ],
+                "keywords": [
+                  "A few words on topoi",
+                  "Nominal sets over some group form a",
+                  "{",
+                  "or",
+                  "category",
+                  "(objects: nominal G-sets)",
+                  "(arrows: “equivariant” maps)",
+                  "toposes"
+                ],
+                "eventId": "16",
+                "originalParams": {
+                  "category": {
+                    "opacity": 1
+                  },
+                  "What_is_a_topos_": {
+                    "opacity": 1
+                  },
+                  "Why_do_we_care_": {
+                    "opacity": 1
+                  },
+                  "topos": {
+                    "opacity": 1
+                  },
+                  "f_x_cdot_sigma__f_x__cdot_sigma": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "learning functorial",
+                "id": "learning_functorial",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "describes_behaviour_on_all__words__of",
+                    "enabled": "enabled",
+                    "name": "describes behaviour on all “words“ of",
+                    "merged": false,
+                    "keywords": [
+                      "describes behaviour on all “words“ of"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_what_we_expect_from_an_automaton_",
+                    "enabled": "enabled",
+                    "name": "(what we expect from an automaton)",
+                    "merged": true,
+                    "keywords": [
+                      "(what we expect from an automaton)"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_Sigma__",
+                    "enabled": "enabled",
+                    "name": "\\Sigma^*",
+                    "merged": true,
+                    "keywords": [
+                      "\\Sigma^*"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "describes_behaviour_on",
+                    "enabled": "enabled",
+                    "name": "describes behaviour on",
+                    "merged": false,
+                    "keywords": [
+                      "describes behaviour on"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_what_we_expect_from_a_table_",
+                    "enabled": "enabled",
+                    "name": "(what we expect from a table)",
+                    "merged": true,
+                    "keywords": [
+                      "(what we expect from a table)"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_Q_cup_Q_Sigma__T",
+                    "enabled": "enabled",
+                    "name": "(Q\\cup Q\\Sigma) T",
+                    "merged": true,
+                    "keywords": [
+                      "(Q\\cup Q\\Sigma) T"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_in_2",
+                    "enabled": "enabled",
+                    "name": "\\textsf{in}",
+                    "merged": false,
+                    "keywords": [
+                      "\\textsf{in}"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_20",
+                    "enabled": "enabled",
+                    "name": "Arrow 20",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 20"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Q",
+                    "enabled": "enabled",
+                    "name": "Q",
+                    "merged": true,
+                    "keywords": [
+                      "Q"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_st__1",
+                    "enabled": "enabled",
+                    "name": "\\textsf{st}_1",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{st}_1"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_21",
+                    "enabled": "enabled",
+                    "name": "Arrow 21",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 21"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_Sigma__phantom___varepsilon",
+                    "enabled": "enabled",
+                    "name": "\\Sigma\\phantom{}\\cup\\{\\varepsilon\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\Sigma\\phantom{}\\cup\\{\\varepsilon\\}"
+                    ],
+                    "eventId": "15"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_st__2",
+                    "enabled": "enabled",
+                    "name": "\\textsf{st}_2",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{st}_2"
+                    ],
+                    "eventId": "16"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Arrow_22",
+                    "enabled": "enabled",
+                    "name": "Arrow 22",
+                    "merged": true,
+                    "keywords": [
+                      "Arrow 22"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "show",
+                    "id": "T",
+                    "enabled": "enabled",
+                    "name": "T",
+                    "merged": true,
+                    "keywords": [
+                      "T"
+                    ],
+                    "eventId": "18"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textsf_out_2",
+                    "enabled": "enabled",
+                    "name": "\\textsf{out}",
+                    "merged": true,
+                    "keywords": [
+                      "\\textsf{out}"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "child",
+                    "name": "non-enriched learning",
+                    "id": "non_enriched_learning2",
+                    "enabled": "enabled",
+                    "merged": false,
+                    "children": [],
+                    "keywords": [
+                      "Stabile, Petrisan, Colcombet (2023):",
+                      "Non-enriched learning (state of the art):",
+                      "A table is closed and consistent iff",
+                      "Idea: apply the same minimisation process as for automata!",
+                      "add idee algo+automate hypothese",
+                      "non-enriched learning"
+                    ],
+                    "eventId": "26",
+                    "originalParams": {}
+                  },
+                  {
+                    "type": "child",
+                    "name": "enriched learning",
+                    "id": "enriched_learning",
+                    "enabled": "enabled",
+                    "merged": true,
+                    "children": [],
+                    "keywords": [
+                      "donner exemple (concat+prefix-closed), dire que algo s’adapte+dire que nouveauté dans nominal",
+                      "what is a prefix-closed language?",
+                      "Many problems arise:",
+                      "what is the concatenation of two languages?",
+                      "Topos-enriched learning (new)",
+                      "how is the hypothesis automaton defined?",
+                      "what is a counterexample? what is its prefix-closure? (what even is a word???)",
+                      "enriched learning"
+                    ],
+                    "eventId": "20",
+                    "originalParams": {}
+                  }
+                ],
+                "keywords": [
+                  "Learning functorial automata in topoi",
+                  "learning functorial"
+                ],
+                "eventId": "17",
+                "originalParams": {
+                  "describes_behaviour_on_all__words__of": {
+                    "opacity": 1
+                  },
+                  "_what_we_expect_from_an_automaton_": {
+                    "opacity": 1
+                  },
+                  "_Sigma__": {
+                    "opacity": 1
+                  },
+                  "describes_behaviour_on": {
+                    "opacity": 1
+                  },
+                  "_what_we_expect_from_a_table_": {
+                    "opacity": 1
+                  },
+                  "_Q_cup_Q_Sigma__T": {
+                    "opacity": 1
+                  },
+                  "_textsf_in_2": {
+                    "opacity": 1
+                  },
+                  "Arrow_20": {
+                    "opacity": 1
+                  },
+                  "Q": {
+                    "opacity": 1
+                  },
+                  "_textsf_st__1": {
+                    "opacity": 1
+                  },
+                  "Arrow_21": {
+                    "opacity": 1
+                  },
+                  "_Sigma__phantom___varepsilon": {
+                    "opacity": 1
+                  },
+                  "_textsf_st__2": {
+                    "opacity": 1
+                  },
+                  "Arrow_22": {
+                    "opacity": 1
+                  },
+                  "T": {
+                    "opacity": 1
+                  },
+                  "_textsf_out_2": {
+                    "opacity": 1
+                  },
+                  "Rectangle_7": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "Enriched functorial automata",
+              "learning topoi"
+            ],
+            "eventId": "7",
+            "originalParams": {
+              "elements_of_a_Set": {
+                "opacity": 1
+              },
+              "Arrow_39": {
+                "opacity": 1
+              },
+              "What_if_the_alphabet_is_not_a_plain_set_": {
+                "opacity": 1
+              },
+              "_rhd": {
+                "opacity": 1
+              },
+              "a_in_Sigma": {
+                "opacity": 1
+              },
+              "_lhd": {
+                "opacity": 1
+              },
+              "object_of_a_topos": {
+                "opacity": 1
+              },
+              "_Sigma": {
+                "opacity": 1
+              },
+              "__": {
+                "opacity": 1
+              },
+              "__2": {
+                "opacity": 1
+              },
+              "What_about_learning___": {
+                "opacity": 1
+              },
+              "Enriched_CT_": {
+                "opacity": 1
+              },
+              "Arrow_47": {
+                "opacity": 1
+              },
+              "what_does_stand_for__": {
+                "opacity": 1
+              },
+              "what_is_composition__": {
+                "opacity": 1
+              },
+              "_varepsilon": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Automata and Learning",
+          "Global"
+        ],
+        "eventId": "12",
+        "originalParams": {
+          "Functorial_Automata": {
+            "opacity": 1
+          },
+          "Learning_in_topoi": {
+            "opacity": 1
+          },
+          "Line_6": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "____now_we_know__",
+        "enabled": "enabled",
+        "name": "... now we know!!",
+        "merged": false,
+        "keywords": [
+          "... now we know!!"
+        ],
+        "eventId": "13"
+      }
+    ],
+    "keywords": [
+      "Title",
+      "input",
+      "output",
+      "What is happening in here?",
+      "new slide"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "____now_we_know__": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}
